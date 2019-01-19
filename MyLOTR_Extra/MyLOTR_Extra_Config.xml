@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Players>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ELDAR_ELVES</CivilizationType>
+			<LeaderType>LEADER_GIL_GALAD</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ELDAR_ELVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ELDAR_ELVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GIL_GALAD_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GIL_GALAD</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ELVEN_INMORTALITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ELVEN_INMORTALITY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ELDAR_ELVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_EREINION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_EREINION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GIL_GALAD</LeaderAbilityIcon>
+			<Portrait>LEADER_GIL_GALAD_NEUTRAL</Portrait>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ELDAR_ELVES</CivilizationType>
+			<LeaderType>LEADER_CELEBRIMBOR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ELDAR_ELVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ELDAR_ELVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_CELEBRIMBOR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_CELEBRIMBOR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ELVEN_INMORTALITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ELVEN_INMORTALITY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ELDAR_ELVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_TELPERINQUAR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_TELPERINQUAR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_CELEBRIMBOR</LeaderAbilityIcon>
+			<Portrait>LEADER_CELEBRIMBOR_NEUTRAL</Portrait>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_SILVAN_ELVES</CivilizationType>
+			<LeaderType>LEADER_OROPHER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SILVAN_ELVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SILVAN_ELVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_OROPHER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_OROPHER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ELVES_OF_THE_FOREST_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ELVES_OF_THE_FOREST_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SILVAN_ELVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_GREENWOOD_THE_GREAT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_GREENWOOD_THE_GREAT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_OROPHER</LeaderAbilityIcon>
+			<Portrait>LEADER_OROPHER_NEUTRAL</Portrait>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_LOTR_DWARVES</CivilizationType>
+			<LeaderType>LEADER_THROR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_LOTR_DWARVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_LOTR_DWARVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_THROR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_THROR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GREAT_MINERS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GREAT_MINERS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_LOTR_DWARVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HEART_OF_THE_MOUNTAIN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HEART_OF_THE_MOUNTAIN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_THROR</LeaderAbilityIcon>
+			<Portrait>LEADER_THROR_NEUTRAL</Portrait>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_LOTR_DWARVES</CivilizationType>
+			<LeaderType>LEADER_THORIN_II_OAKENSHIELD</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_LOTR_DWARVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_LOTR_DWARVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_THORIN_II_OAKENSHIELD_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_THORIN_II_OAKENSHIELD</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GREAT_MINERS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GREAT_MINERS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_LOTR_DWARVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_KING_IN_EXILE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_KING_IN_EXILE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_THORIN_II_OAKENSHIELD</LeaderAbilityIcon>
+			<Portrait>LEADER_THORIN_II_OAKENSHIELD_NEUTRAL</Portrait>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_GONDOR</CivilizationType>
+			<LeaderType>LEADER_DENETHOR_II</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_GONDOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_GONDOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DENETHOR_II_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DENETHOR_II</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_NUMENOREAN_SONS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_NUMENOREAN_SONS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_GONDOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_STEWARD_OF_GONDOR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_STEWARD_OF_GONDOR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DENETHOR_II</LeaderAbilityIcon>
+			<Portrait>LEADER_DENETHOR_II_NEUTRAL</Portrait>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ROHAN</CivilizationType>
+			<LeaderType>LEADER_EORL_THE_YOUNG</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ROHAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ROHAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_EORL_THE_YOUNG_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_EORL_THE_YOUNG</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THE_MARK_OF_THE_RIDERS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THE_MARK_OF_THE_RIDERS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ROHAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_EOTHEOD_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_EOTHEOD_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_EORL_THE_YOUNG</LeaderAbilityIcon>
+			<Portrait>LEADER_EORL_THE_YOUNG_NEUTRAL</Portrait>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_NUMENOR</CivilizationType>
+			<LeaderType>LEADER_ELROS_TAR_MINYATUR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_NUMENOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_NUMENOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ELROS_TAR_MINYATUR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ELROS_TAR_MINYATUR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_RULERS_OF_THE_GREAT_SEA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_RULERS_OF_THE_GREAT_SEA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_NUMENOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_FIRST_RULER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_FIRST_RULER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ELROS_TAR_MINYATUR</LeaderAbilityIcon>
+			<Portrait>LEADER_ELROS_TAR_MINYATUR_NEUTRAL</Portrait>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_NUMENOR</CivilizationType>
+			<LeaderType>LEADER_AR_PHARAZON</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_NUMENOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_NUMENOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AR_PHARAZON_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AR_PHARAZON</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_RULERS_OF_THE_GREAT_SEA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_RULERS_OF_THE_GREAT_SEA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_NUMENOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CORRUPT_NUMENOREAN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CORRUPT_NUMENOREAN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AR_PHARAZON</LeaderAbilityIcon>
+			<Portrait>LEADER_AR_PHARAZON_NEUTRAL</Portrait>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+
+	<Players>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ELDAR_ELVES</CivilizationType>
+			<LeaderType>LEADER_GIL_GALAD</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ELDAR_ELVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ELDAR_ELVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GIL_GALAD_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GIL_GALAD</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ELVEN_INMORTALITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ELVEN_INMORTALITY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ELDAR_ELVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_EREINION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_EREINION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GIL_GALAD</LeaderAbilityIcon>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ELDAR_ELVES</CivilizationType>
+			<LeaderType>LEADER_CELEBRIMBOR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ELDAR_ELVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ELDAR_ELVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_CELEBRIMBOR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_CELEBRIMBOR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ELVEN_INMORTALITY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ELVEN_INMORTALITY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ELDAR_ELVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_TELPERINQUAR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_TELPERINQUAR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_CELEBRIMBOR</LeaderAbilityIcon>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_SILVAN_ELVES</CivilizationType>
+			<LeaderType>LEADER_OROPHER</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_SILVAN_ELVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_SILVAN_ELVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_OROPHER_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_OROPHER</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ELVES_OF_THE_FOREST_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ELVES_OF_THE_FOREST_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_SILVAN_ELVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_GREENWOOD_THE_GREAT_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_GREENWOOD_THE_GREAT_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_OROPHER</LeaderAbilityIcon>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_LOTR_DWARVES</CivilizationType>
+			<LeaderType>LEADER_THROR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_LOTR_DWARVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_LOTR_DWARVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_THROR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_THROR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GREAT_MINERS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GREAT_MINERS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_LOTR_DWARVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HEART_OF_THE_MOUNTAIN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HEART_OF_THE_MOUNTAIN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_THROR</LeaderAbilityIcon>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_LOTR_DWARVES</CivilizationType>
+			<LeaderType>LEADER_THORIN_II_OAKENSHIELD</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_LOTR_DWARVES_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_LOTR_DWARVES</CivilizationIcon>
+			<LeaderName>LOC_LEADER_THORIN_II_OAKENSHIELD_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_THORIN_II_OAKENSHIELD</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GREAT_MINERS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GREAT_MINERS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_LOTR_DWARVES</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_KING_IN_EXILE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_KING_IN_EXILE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_THORIN_II_OAKENSHIELD</LeaderAbilityIcon>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_GONDOR</CivilizationType>
+			<LeaderType>LEADER_DENETHOR_II</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_GONDOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_GONDOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DENETHOR_II_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DENETHOR_II</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_NUMENOREAN_SONS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_NUMENOREAN_SONS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_GONDOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_STEWARD_OF_GONDOR_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_STEWARD_OF_GONDOR_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DENETHOR_II</LeaderAbilityIcon>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ROHAN</CivilizationType>
+			<LeaderType>LEADER_EORL_THE_YOUNG</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ROHAN_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ROHAN</CivilizationIcon>
+			<LeaderName>LOC_LEADER_EORL_THE_YOUNG_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_EORL_THE_YOUNG</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_THE_MARK_OF_THE_RIDERS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_THE_MARK_OF_THE_RIDERS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ROHAN</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LORD_EOTHEOD_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LORD_EOTHEOD_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_EORL_THE_YOUNG</LeaderAbilityIcon>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_NUMENOR</CivilizationType>
+			<LeaderType>LEADER_ELROS_TAR_MINYATUR</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_NUMENOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_NUMENOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ELROS_TAR_MINYATUR_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ELROS_TAR_MINYATUR</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_RULERS_OF_THE_GREAT_SEA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_RULERS_OF_THE_GREAT_SEA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_NUMENOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_FIRST_RULER_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_FIRST_RULER_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ELROS_TAR_MINYATUR</LeaderAbilityIcon>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_NUMENOR</CivilizationType>
+			<LeaderType>LEADER_AR_PHARAZON</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_NUMENOR_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_NUMENOR</CivilizationIcon>
+			<LeaderName>LOC_LEADER_AR_PHARAZON_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_AR_PHARAZON</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_RULERS_OF_THE_GREAT_SEA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_RULERS_OF_THE_GREAT_SEA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_NUMENOR</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CORRUPT_NUMENOREAN_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CORRUPT_NUMENOREAN_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_AR_PHARAZON</LeaderAbilityIcon>
+			<PortraitBackground>LOTR_EXTRA_LOADING_BACKGROUND</PortraitBackground>
+		</Row>
+	</Players>
+	<PlayerItems>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_NOLDOR_WARRIOR" Icon="ICON_UNIT_NOLDOR_WARRIOR" Name="LOC_UNIT_NOLDOR_WARRIOR_NAME" Description="LOC_UNIT_NOLDOR_WARRIOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_RIVENDEL_LANCER" Icon="ICON_UNIT_RIVENDEL_LANCER" Name="LOC_UNIT_RIVENDEL_LANCER_NAME" Description="LOC_UNIT_RIVENDEL_LANCER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_NOLDOR_SPEARMAN" Icon="ICON_UNIT_NOLDOR_SPEARMAN" Name="LOC_UNIT_NOLDOR_SPEARMAN_NAME" Description="LOC_UNIT_NOLDOR_SPEARMAN_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_NOLDOR_ARCHER" Icon="ICON_UNIT_NOLDOR_ARCHER" Name="LOC_UNIT_NOLDOR_ARCHER_NAME" Description="LOC_UNIT_NOLDOR_ARCHER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="BUILDING_EREGION_FORGE" Icon="ICON_BUILDING_EREGION_FORGE" Name="LOC_BUILDING_EREGION_FORGE_NAME" Description="LOC_BUILDING_EREGION_FORGE_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_TELERI_SWANSHIP" Icon="ICON_UNIT_TELERI_SWANSHIP" Name="LOC_UNIT_TELERI_SWANSHIP_NAME" Description="LOC_UNIT_TELERI_SWANSHIP_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_ELDAR_MOUNTED_ARCHER" Icon="ICON_UNIT_ELDAR_MOUNTED_ARCHER" Name="LOC_UNIT_ELDAR_MOUNTED_ARCHER_NAME" Description="LOC_UNIT_ELDAR_MOUNTED_ARCHER_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_EAGLE" Icon="ICON_UNIT_EAGLE" Name="LOC_UNIT_EAGLE_NAME" Description="LOC_UNIT_EAGLE_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_ELNAITH" Icon="ICON_UNIT_ELNAITH" Name="LOC_UNIT_ELNAITH_NAME" Description="LOC_UNIT_ELNAITH_DESCRIPTION" SortIndex="90"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="UNIT_NOLDOR_WARRIOR" Icon="ICON_UNIT_NOLDOR_WARRIOR" Name="LOC_UNIT_NOLDOR_WARRIOR_NAME" Description="LOC_UNIT_NOLDOR_WARRIOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="UNIT_RIVENDEL_LANCER" Icon="ICON_UNIT_RIVENDEL_LANCER" Name="LOC_UNIT_RIVENDEL_LANCER_NAME" Description="LOC_UNIT_RIVENDEL_LANCER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="UNIT_NOLDOR_SPEARMAN" Icon="ICON_UNIT_NOLDOR_SPEARMAN" Name="LOC_UNIT_NOLDOR_SPEARMAN_NAME" Description="LOC_UNIT_NOLDOR_SPEARMAN_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="UNIT_NOLDOR_ARCHER" Icon="ICON_UNIT_NOLDOR_ARCHER" Name="LOC_UNIT_NOLDOR_ARCHER_NAME" Description="LOC_UNIT_NOLDOR_ARCHER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="BUILDING_EREGION_FORGE" Icon="ICON_BUILDING_EREGION_FORGE" Name="LOC_BUILDING_EREGION_FORGE_NAME" Description="LOC_BUILDING_EREGION_FORGE_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="UNIT_TELERI_SWANSHIP" Icon="ICON_UNIT_TELERI_SWANSHIP" Name="LOC_UNIT_TELERI_SWANSHIP_NAME" Description="LOC_UNIT_TELERI_SWANSHIP_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="UNIT_ELDAR_MOUNTED_ARCHER" Icon="ICON_UNIT_ELDAR_MOUNTED_ARCHER" Name="LOC_UNIT_ELDAR_MOUNTED_ARCHER_NAME" Description="LOC_UNIT_ELDAR_MOUNTED_ARCHER_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="UNIT_ELNAITH" Icon="ICON_UNIT_ELNAITH" Name="LOC_UNIT_ELNAITH_NAME" Description="LOC_UNIT_ELNAITH_DESCRIPTION" SortIndex="80"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SILVAN_ELVES" LeaderType="LEADER_OROPHER" Type="UNIT_SILVAN_SPEARMAN" Icon="ICON_UNIT_SILVAN_SPEARMAN" Name="LOC_UNIT_SILVAN_SPEARMAN_NAME" Description="LOC_UNIT_SILVAN_SPEARMAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SILVAN_ELVES" LeaderType="LEADER_OROPHER" Type="UNIT_MIRKWOOD_ARCHER" Icon="ICON_UNIT_MIRKWOOD_ARCHER" Name="LOC_UNIT_MIRKWOOD_ARCHER_NAME" Description="LOC_UNIT_MIRKWOOD_ARCHER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SILVAN_ELVES" LeaderType="LEADER_OROPHER" Type="UNIT_SILVAN_WARRIOR" Icon="ICON_UNIT_SILVAN_WARRIOR" Name="LOC_UNIT_SILVAN_WARRIOR_NAME" Description="LOC_UNIT_SILVAN_WARRIOR_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SILVAN_ELVES" LeaderType="LEADER_OROPHER" Type="UNIT_ELDAR_CAVALRY" Icon="ICON_UNIT_ELDAR_CAVALRY" Name="LOC_UNIT_ELDAR_CAVALRY_NAME" Description="LOC_UNIT_ELDAR_CAVALRY_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SILVAN_ELVES" LeaderType="LEADER_OROPHER" Type="UNIT_ELDAR_MOUNTED_ARCHER" Icon="ICON_UNIT_ELDAR_MOUNTED_ARCHER" Name="LOC_UNIT_ELDAR_MOUNTED_ARCHER_NAME" Description="LOC_UNIT_ELDAR_MOUNTED_ARCHER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_SILVAN_ELVES" LeaderType="LEADER_OROPHER" Type="UNIT_TELERI_SWANSHIP" Icon="ICON_UNIT_TELERI_SWANSHIP" Name="LOC_UNIT_TELERI_SWANSHIP_NAME" Description="LOC_UNIT_TELERI_SWANSHIP_DESCRIPTION" SortIndex="60"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THROR" Type="UNIT_DWARVEN_GUARDIAN" Icon="ICON_UNIT_DWARVEN_GUARDIAN" Name="LOC_UNIT_DWARVEN_GUARDIAN_NAME" Description="LOC_UNIT_DWARVEN_GUARDIAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THROR" Type="UNIT_DWARVEN_PHALANXES" Icon="ICON_UNIT_DWARVEN_PHALANXES" Name="LOC_UNIT_DWARVEN_PHALANXES_NAME" Description="LOC_UNIT_DWARVEN_PHALANXES_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THROR" Type="UNIT_GOAT_RIDERS" Icon="ICON_UNIT_GOAT_RIDERS" Name="LOC_UNIT_GOAT_RIDERS_NAME" Description="LOC_UNIT_GOAT_RIDERS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THROR" Type="UNIT_BOAR_RIDERS" Icon="ICON_UNIT_BOAR_RIDERS" Name="LOC_UNIT_BOAR_RIDERS_NAME" Description="LOC_UNIT_BOAR_RIDERS_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THROR" Type="BUILDING_DWARVEN_EXCAVATION" Icon="ICON_BUILDING_DWARVEN_EXCAVATION" Name="LOC_BUILDING_DWARVEN_EXCAVATION_NAME" Description="LOC_BUILDING_DWARVEN_EXCAVATION_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THROR" Type="UNIT_DWARF_AXE_THROWER" Icon="ICON_UNIT_DWARF_AXE_THROWER" Name="LOC_UNIT_DWARF_AXE_THROWER_NAME" Description="LOC_UNIT_DWARF_AXE_THROWER_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THROR" Type="UNIT_DWARF_BATTLEWAGON" Icon="ICON_UNIT_DWARF_BATTLEWAGON" Name="LOC_UNIT_DWARF_BATTLEWAGON_NAME" Description="LOC_UNIT_DWARF_BATTLEWAGON_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THORIN_II_OAKENSHIELD" Type="UNIT_DWARVEN_GUARDIAN" Icon="ICON_UNIT_DWARVEN_GUARDIAN" Name="LOC_UNIT_DWARVEN_GUARDIAN_NAME" Description="LOC_UNIT_DWARVEN_GUARDIAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THORIN_II_OAKENSHIELD" Type="UNIT_DWARVEN_PHALANXES" Icon="ICON_UNIT_DWARVEN_PHALANXES" Name="LOC_UNIT_DWARVEN_PHALANXES_NAME" Description="LOC_UNIT_DWARVEN_PHALANXES_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THORIN_II_OAKENSHIELD" Type="UNIT_GOAT_RIDERS" Icon="ICON_UNIT_GOAT_RIDERS" Name="LOC_UNIT_GOAT_RIDERS_NAME" Description="LOC_UNIT_GOAT_RIDERS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THORIN_II_OAKENSHIELD" Type="UNIT_BOAR_RIDERS" Icon="ICON_UNIT_BOAR_RIDERS" Name="LOC_UNIT_BOAR_RIDERS_NAME" Description="LOC_UNIT_BOAR_RIDERS_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THORIN_II_OAKENSHIELD" Type="BUILDING_DWARVEN_EXCAVATION" Icon="ICON_BUILDING_DWARVEN_EXCAVATION" Name="LOC_BUILDING_DWARVEN_EXCAVATION_NAME" Description="LOC_BUILDING_DWARVEN_EXCAVATION_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THORIN_II_OAKENSHIELD" Type="UNIT_DWARF_AXE_THROWER" Icon="ICON_UNIT_DWARF_AXE_THROWER" Name="LOC_UNIT_DWARF_AXE_THROWER_NAME" Description="LOC_UNIT_DWARF_AXE_THROWER_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THORIN_II_OAKENSHIELD" Type="UNIT_DWARF_BATTLEWAGON" Icon="ICON_UNIT_DWARF_BATTLEWAGON" Name="LOC_UNIT_DWARF_BATTLEWAGON_NAME" Description="LOC_UNIT_DWARF_BATTLEWAGON_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GONDOR" LeaderType="LEADER_DENETHOR_II" Type="UNIT_CITADEL_GUARD" Icon="ICON_UNIT_CITADEL_GUARD" Name="LOC_UNIT_CITADEL_GUARD_NAME" Description="LOC_UNIT_CITADEL_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GONDOR" LeaderType="LEADER_DENETHOR_II" Type="BUILDING_HEROIC_STATUE" Icon="ICON_BUILDING_HEROIC_STATUE" Name="LOC_BUILDING_HEROIC_STATUE_NAME" Description="LOC_BUILDING_HEROIC_STATUE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GONDOR" LeaderType="LEADER_DENETHOR_II" Type="BUILDING_NUMENOREAN_WALLS" Icon="ICON_BUILDING_NUMENOREAN_WALLS" Name="LOC_BUILDING_NUMENOREAN_WALLS_NAME" Description="LOC_BUILDING_NUMENOREAN_WALLS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GONDOR" LeaderType="LEADER_DENETHOR_II" Type="BUILDING_NUMENOREAN_TOWER" Icon="ICON_BUILDING_NUMENOREAN_TOWER" Name="LOC_BUILDING_NUMENOREAN_TOWER_NAME" Description="LOC_BUILDING_NUMENOREAN_TOWER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GONDOR" LeaderType="LEADER_DENETHOR_II" Type="UNIT_RANGERS_ITHILIEN" Icon="ICON_UNIT_RANGERS_ITHILIEN" Name="LOC_UNIT_RANGERS_ITHILIEN_NAME" Description="LOC_UNIT_RANGERS_ITHILIEN_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GONDOR" LeaderType="LEADER_DENETHOR_II" Type="UNIT_SWAN_KNIGHTS" Icon="ICON_UNIT_SWAN_KNIGHTS" Name="LOC_UNIT_SWAN_KNIGHTS_NAME" Description="LOC_UNIT_SWAN_KNIGHTS_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GONDOR" LeaderType="LEADER_DENETHOR_II" Type="UNIT_GONDOR_LONGBOWMAN" Icon="ICON_UNIT_GONDOR_LONGBOWMAN" Name="LOC_UNIT_SWAN_KNIGHTS_NAME" Description="LOC_UNIT_GONDOR_LONGBOWMAN_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ROHAN" LeaderType="LEADER_EORL_THE_YOUNG" Type="UNIT_ROHIRRIM" Icon="ICON_UNIT_ROHIRRIM" Name="LOC_UNIT_ROHIRRIM_NAME" Description="LOC_UNIT_ROHIRRIM_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ROHAN" LeaderType="LEADER_EORL_THE_YOUNG" Type="UNIT_ROHIRRIM_ARCHER" Icon="ICON_UNIT_ROHIRRIM_ARCHER" Name="LOC_UNIT_ROHIRRIM_ARCHER_NAME" Description="LOC_UNIT_ROHIRRIM_ARCHER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ROHAN" LeaderType="LEADER_EORL_THE_YOUNG" Type="BUILDING_MEARAS_STABLE" Icon="ICON_BUILDING_MEARAS_STABLE" Name="LOC_BUILDING_MEARAS_STABLE_NAME" Description="LOC_BUILDING_MEARAS_STABLE_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ROHAN" LeaderType="LEADER_EORL_THE_YOUNG" Type="UNIT_ROHAN_MILITIA" Icon="ICON_UNIT_ROHAN_MILITIA" Name="LOC_UNIT_ROHAN_MILITIA_NAME" Description="LOC_UNIT_ROHAN_MILITIA_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_ELROS_TAR_MINYATUR" Type="UNIT_EDAIN_PHALANXES" Icon="ICON_UNIT_EDAIN_PHALANXES" Name="LOC_UNIT_EDAIN_PHALANXES_NAME" Description="LOC_UNIT_EDAIN_PHALANXES_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_ELROS_TAR_MINYATUR" Type="BUILDING_HEROIC_STATUE" Icon="ICON_BUILDING_HEROIC_STATUE" Name="LOC_BUILDING_HEROIC_STATUE_NAME" Description="LOC_BUILDING_HEROIC_STATUE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_ELROS_TAR_MINYATUR" Type="BUILDING_NUMENOREAN_WALLS" Icon="ICON_BUILDING_NUMENOREAN_WALLS" Name="LOC_BUILDING_NUMENOREAN_WALLS_NAME" Description="LOC_BUILDING_NUMENOREAN_WALLS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_ELROS_TAR_MINYATUR" Type="BUILDING_NUMENOREAN_TOWER" Icon="ICON_BUILDING_NUMENOREAN_TOWER" Name="LOC_BUILDING_NUMENOREAN_TOWER_NAME" Description="LOC_BUILDING_NUMENOREAN_TOWER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_ELROS_TAR_MINYATUR" Type="UNIT_NUMENOR_STEELBOW" Icon="ICON_UNIT_NUMENOR_STEELBOW" Name="LOC_UNIT_NUMENOR_STEELBOW_NAME" Description="LOC_UNIT_NUMENOR_STEELBOW_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_ELROS_TAR_MINYATUR" Type="UNIT_NUMENOR_SHIP" Icon="ICON_UNIT_NUMENOR_SHIP" Name="LOC_UNIT_NUMENOR_SHIP_NAME" Description="LOC_UNIT_NUMENOR_SHIP_DESCRIPTION" SortIndex="60"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_AR_PHARAZON" Type="UNIT_EDAIN_PHALANXES" Icon="ICON_UNIT_EDAIN_PHALANXES" Name="LOC_UNIT_EDAIN_PHALANXES_NAME" Description="LOC_UNIT_EDAIN_PHALANXES_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_AR_PHARAZON" Type="BUILDING_HEROIC_STATUE" Icon="ICON_BUILDING_HEROIC_STATUE" Name="LOC_BUILDING_HEROIC_STATUE_NAME" Description="LOC_BUILDING_HEROIC_STATUE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_AR_PHARAZON" Type="BUILDING_NUMENOREAN_WALLS" Icon="ICON_BUILDING_NUMENOREAN_WALLS" Name="LOC_BUILDING_NUMENOREAN_WALLS_NAME" Description="LOC_BUILDING_NUMENOREAN_WALLS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_AR_PHARAZON" Type="BUILDING_NUMENOREAN_TOWER" Icon="ICON_BUILDING_NUMENOREAN_TOWER" Name="LOC_BUILDING_NUMENOREAN_TOWER_NAME" Description="LOC_BUILDING_NUMENOREAN_TOWER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_AR_PHARAZON" Type="UNIT_BLACK_NUMENOREAN_ARCHER" Icon="ICON_UNIT_BLACK_NUMENOREAN_ARCHER" Name="LOC_UNIT_BLACK_NUMENOREAN_ARCHER_NAME" Description="LOC_UNIT_BLACK_NUMENOREAN_ARCHER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_AR_PHARAZON" Type="UNIT_NUMENOR_SHIP" Icon="ICON_UNIT_NUMENOR_SHIP" Name="LOC_UNIT_NUMENOR_SHIP_NAME" Description="LOC_UNIT_NUMENOR_SHIP_DESCRIPTION" SortIndex="60"/>
+
+	</PlayerItems>
+
+	<PlayerItems>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_NOLDOR_WARRIOR" Icon="ICON_UNIT_NOLDOR_WARRIOR" Name="LOC_UNIT_NOLDOR_WARRIOR_NAME" Description="LOC_UNIT_NOLDOR_WARRIOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_RIVENDEL_LANCER" Icon="ICON_UNIT_RIVENDEL_LANCER" Name="LOC_UNIT_RIVENDEL_LANCER_NAME" Description="LOC_UNIT_RIVENDEL_LANCER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_NOLDOR_SPEARMAN" Icon="ICON_UNIT_NOLDOR_SPEARMAN" Name="LOC_UNIT_NOLDOR_SPEARMAN_NAME" Description="LOC_UNIT_NOLDOR_SPEARMAN_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_NOLDOR_ARCHER" Icon="ICON_UNIT_NOLDOR_ARCHER" Name="LOC_UNIT_NOLDOR_ARCHER_NAME" Description="LOC_UNIT_NOLDOR_ARCHER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="BUILDING_EREGION_FORGE" Icon="ICON_BUILDING_EREGION_FORGE" Name="LOC_BUILDING_EREGION_FORGE_NAME" Description="LOC_BUILDING_EREGION_FORGE_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_TELERI_SWANSHIP" Icon="ICON_UNIT_TELERI_SWANSHIP" Name="LOC_UNIT_TELERI_SWANSHIP_NAME" Description="LOC_UNIT_TELERI_SWANSHIP_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_ELDAR_MOUNTED_ARCHER" Icon="ICON_UNIT_ELDAR_MOUNTED_ARCHER" Name="LOC_UNIT_ELDAR_MOUNTED_ARCHER_NAME" Description="LOC_UNIT_ELDAR_MOUNTED_ARCHER_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_EAGLE" Icon="ICON_UNIT_EAGLE" Name="LOC_UNIT_EAGLE_NAME" Description="LOC_UNIT_EAGLE_DESCRIPTION" SortIndex="80"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_GIL_GALAD" Type="UNIT_ELNAITH" Icon="ICON_UNIT_ELNAITH" Name="LOC_UNIT_ELNAITH_NAME" Description="LOC_UNIT_ELNAITH_DESCRIPTION" SortIndex="90"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="UNIT_NOLDOR_WARRIOR" Icon="ICON_UNIT_NOLDOR_WARRIOR" Name="LOC_UNIT_NOLDOR_WARRIOR_NAME" Description="LOC_UNIT_NOLDOR_WARRIOR_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="UNIT_RIVENDEL_LANCER" Icon="ICON_UNIT_RIVENDEL_LANCER" Name="LOC_UNIT_RIVENDEL_LANCER_NAME" Description="LOC_UNIT_RIVENDEL_LANCER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="UNIT_NOLDOR_SPEARMAN" Icon="ICON_UNIT_NOLDOR_SPEARMAN" Name="LOC_UNIT_NOLDOR_SPEARMAN_NAME" Description="LOC_UNIT_NOLDOR_SPEARMAN_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="UNIT_NOLDOR_ARCHER" Icon="ICON_UNIT_NOLDOR_ARCHER" Name="LOC_UNIT_NOLDOR_ARCHER_NAME" Description="LOC_UNIT_NOLDOR_ARCHER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="BUILDING_EREGION_FORGE" Icon="ICON_BUILDING_EREGION_FORGE" Name="LOC_BUILDING_EREGION_FORGE_NAME" Description="LOC_BUILDING_EREGION_FORGE_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="UNIT_TELERI_SWANSHIP" Icon="ICON_UNIT_TELERI_SWANSHIP" Name="LOC_UNIT_TELERI_SWANSHIP_NAME" Description="LOC_UNIT_TELERI_SWANSHIP_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="UNIT_ELDAR_MOUNTED_ARCHER" Icon="ICON_UNIT_ELDAR_MOUNTED_ARCHER" Name="LOC_UNIT_ELDAR_MOUNTED_ARCHER_NAME" Description="LOC_UNIT_ELDAR_MOUNTED_ARCHER_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ELDAR_ELVES" LeaderType="LEADER_CELEBRIMBOR" Type="UNIT_ELNAITH" Icon="ICON_UNIT_ELNAITH" Name="LOC_UNIT_ELNAITH_NAME" Description="LOC_UNIT_ELNAITH_DESCRIPTION" SortIndex="80"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SILVAN_ELVES" LeaderType="LEADER_OROPHER" Type="UNIT_SILVAN_SPEARMAN" Icon="ICON_UNIT_SILVAN_SPEARMAN" Name="LOC_UNIT_SILVAN_SPEARMAN_NAME" Description="LOC_UNIT_SILVAN_SPEARMAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SILVAN_ELVES" LeaderType="LEADER_OROPHER" Type="UNIT_MIRKWOOD_ARCHER" Icon="ICON_UNIT_MIRKWOOD_ARCHER" Name="LOC_UNIT_MIRKWOOD_ARCHER_NAME" Description="LOC_UNIT_MIRKWOOD_ARCHER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SILVAN_ELVES" LeaderType="LEADER_OROPHER" Type="UNIT_SILVAN_WARRIOR" Icon="ICON_UNIT_SILVAN_WARRIOR" Name="LOC_UNIT_SILVAN_WARRIOR_NAME" Description="LOC_UNIT_SILVAN_WARRIOR_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SILVAN_ELVES" LeaderType="LEADER_OROPHER" Type="UNIT_ELDAR_CAVALRY" Icon="ICON_UNIT_ELDAR_CAVALRY" Name="LOC_UNIT_ELDAR_CAVALRY_NAME" Description="LOC_UNIT_ELDAR_CAVALRY_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SILVAN_ELVES" LeaderType="LEADER_OROPHER" Type="UNIT_ELDAR_MOUNTED_ARCHER" Icon="ICON_UNIT_ELDAR_MOUNTED_ARCHER" Name="LOC_UNIT_ELDAR_MOUNTED_ARCHER_NAME" Description="LOC_UNIT_ELDAR_MOUNTED_ARCHER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_SILVAN_ELVES" LeaderType="LEADER_OROPHER" Type="UNIT_TELERI_SWANSHIP" Icon="ICON_UNIT_TELERI_SWANSHIP" Name="LOC_UNIT_TELERI_SWANSHIP_NAME" Description="LOC_UNIT_TELERI_SWANSHIP_DESCRIPTION" SortIndex="60"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THROR" Type="UNIT_DWARVEN_GUARDIAN" Icon="ICON_UNIT_DWARVEN_GUARDIAN" Name="LOC_UNIT_DWARVEN_GUARDIAN_NAME" Description="LOC_UNIT_DWARVEN_GUARDIAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THROR" Type="UNIT_DWARVEN_PHALANXES" Icon="ICON_UNIT_DWARVEN_PHALANXES" Name="LOC_UNIT_DWARVEN_PHALANXES_NAME" Description="LOC_UNIT_DWARVEN_PHALANXES_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THROR" Type="UNIT_GOAT_RIDERS" Icon="ICON_UNIT_GOAT_RIDERS" Name="LOC_UNIT_GOAT_RIDERS_NAME" Description="LOC_UNIT_GOAT_RIDERS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THROR" Type="UNIT_BOAR_RIDERS" Icon="ICON_UNIT_BOAR_RIDERS" Name="LOC_UNIT_BOAR_RIDERS_NAME" Description="LOC_UNIT_BOAR_RIDERS_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THROR" Type="BUILDING_DWARVEN_EXCAVATION" Icon="ICON_BUILDING_DWARVEN_EXCAVATION" Name="LOC_BUILDING_DWARVEN_EXCAVATION_NAME" Description="LOC_BUILDING_DWARVEN_EXCAVATION_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THROR" Type="UNIT_DWARF_AXE_THROWER" Icon="ICON_UNIT_DWARF_AXE_THROWER" Name="LOC_UNIT_DWARF_AXE_THROWER_NAME" Description="LOC_UNIT_DWARF_AXE_THROWER_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THROR" Type="UNIT_DWARF_BATTLEWAGON" Icon="ICON_UNIT_DWARF_BATTLEWAGON" Name="LOC_UNIT_DWARF_BATTLEWAGON_NAME" Description="LOC_UNIT_DWARF_BATTLEWAGON_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THORIN_II_OAKENSHIELD" Type="UNIT_DWARVEN_GUARDIAN" Icon="ICON_UNIT_DWARVEN_GUARDIAN" Name="LOC_UNIT_DWARVEN_GUARDIAN_NAME" Description="LOC_UNIT_DWARVEN_GUARDIAN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THORIN_II_OAKENSHIELD" Type="UNIT_DWARVEN_PHALANXES" Icon="ICON_UNIT_DWARVEN_PHALANXES" Name="LOC_UNIT_DWARVEN_PHALANXES_NAME" Description="LOC_UNIT_DWARVEN_PHALANXES_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THORIN_II_OAKENSHIELD" Type="UNIT_GOAT_RIDERS" Icon="ICON_UNIT_GOAT_RIDERS" Name="LOC_UNIT_GOAT_RIDERS_NAME" Description="LOC_UNIT_GOAT_RIDERS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THORIN_II_OAKENSHIELD" Type="UNIT_BOAR_RIDERS" Icon="ICON_UNIT_BOAR_RIDERS" Name="LOC_UNIT_BOAR_RIDERS_NAME" Description="LOC_UNIT_BOAR_RIDERS_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THORIN_II_OAKENSHIELD" Type="BUILDING_DWARVEN_EXCAVATION" Icon="ICON_BUILDING_DWARVEN_EXCAVATION" Name="LOC_BUILDING_DWARVEN_EXCAVATION_NAME" Description="LOC_BUILDING_DWARVEN_EXCAVATION_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THORIN_II_OAKENSHIELD" Type="UNIT_DWARF_AXE_THROWER" Icon="ICON_UNIT_DWARF_AXE_THROWER" Name="LOC_UNIT_DWARF_AXE_THROWER_NAME" Description="LOC_UNIT_DWARF_AXE_THROWER_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_LOTR_DWARVES" LeaderType="LEADER_THORIN_II_OAKENSHIELD" Type="UNIT_DWARF_BATTLEWAGON" Icon="ICON_UNIT_DWARF_BATTLEWAGON" Name="LOC_UNIT_DWARF_BATTLEWAGON_NAME" Description="LOC_UNIT_DWARF_BATTLEWAGON_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GONDOR" LeaderType="LEADER_DENETHOR_II" Type="UNIT_CITADEL_GUARD" Icon="ICON_UNIT_CITADEL_GUARD" Name="LOC_UNIT_CITADEL_GUARD_NAME" Description="LOC_UNIT_CITADEL_GUARD_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GONDOR" LeaderType="LEADER_DENETHOR_II" Type="BUILDING_HEROIC_STATUE" Icon="ICON_BUILDING_HEROIC_STATUE" Name="LOC_BUILDING_HEROIC_STATUE_NAME" Description="LOC_BUILDING_HEROIC_STATUE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GONDOR" LeaderType="LEADER_DENETHOR_II" Type="BUILDING_NUMENOREAN_WALLS" Icon="ICON_BUILDING_NUMENOREAN_WALLS" Name="LOC_BUILDING_NUMENOREAN_WALLS_NAME" Description="LOC_BUILDING_NUMENOREAN_WALLS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GONDOR" LeaderType="LEADER_DENETHOR_II" Type="BUILDING_NUMENOREAN_TOWER" Icon="ICON_BUILDING_NUMENOREAN_TOWER" Name="LOC_BUILDING_NUMENOREAN_TOWER_NAME" Description="LOC_BUILDING_NUMENOREAN_TOWER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GONDOR" LeaderType="LEADER_DENETHOR_II" Type="UNIT_RANGERS_ITHILIEN" Icon="ICON_UNIT_RANGERS_ITHILIEN" Name="LOC_UNIT_RANGERS_ITHILIEN_NAME" Description="LOC_UNIT_RANGERS_ITHILIEN_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GONDOR" LeaderType="LEADER_DENETHOR_II" Type="UNIT_SWAN_KNIGHTS" Icon="ICON_UNIT_SWAN_KNIGHTS" Name="LOC_UNIT_SWAN_KNIGHTS_NAME" Description="LOC_UNIT_SWAN_KNIGHTS_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GONDOR" LeaderType="LEADER_DENETHOR_II" Type="UNIT_GONDOR_LONGBOWMAN" Icon="ICON_UNIT_GONDOR_LONGBOWMAN" Name="LOC_UNIT_SWAN_KNIGHTS_NAME" Description="LOC_UNIT_GONDOR_LONGBOWMAN_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ROHAN" LeaderType="LEADER_EORL_THE_YOUNG" Type="UNIT_ROHIRRIM" Icon="ICON_UNIT_ROHIRRIM" Name="LOC_UNIT_ROHIRRIM_NAME" Description="LOC_UNIT_ROHIRRIM_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ROHAN" LeaderType="LEADER_EORL_THE_YOUNG" Type="UNIT_ROHIRRIM_ARCHER" Icon="ICON_UNIT_ROHIRRIM_ARCHER" Name="LOC_UNIT_ROHIRRIM_ARCHER_NAME" Description="LOC_UNIT_ROHIRRIM_ARCHER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ROHAN" LeaderType="LEADER_EORL_THE_YOUNG" Type="BUILDING_MEARAS_STABLE" Icon="ICON_BUILDING_MEARAS_STABLE" Name="LOC_BUILDING_MEARAS_STABLE_NAME" Description="LOC_BUILDING_MEARAS_STABLE_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ROHAN" LeaderType="LEADER_EORL_THE_YOUNG" Type="UNIT_ROHAN_MILITIA" Icon="ICON_UNIT_ROHAN_MILITIA" Name="LOC_UNIT_ROHAN_MILITIA_NAME" Description="LOC_UNIT_ROHAN_MILITIA_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_ELROS_TAR_MINYATUR" Type="UNIT_EDAIN_PHALANXES" Icon="ICON_UNIT_EDAIN_PHALANXES" Name="LOC_UNIT_EDAIN_PHALANXES_NAME" Description="LOC_UNIT_EDAIN_PHALANXES_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_ELROS_TAR_MINYATUR" Type="BUILDING_HEROIC_STATUE" Icon="ICON_BUILDING_HEROIC_STATUE" Name="LOC_BUILDING_HEROIC_STATUE_NAME" Description="LOC_BUILDING_HEROIC_STATUE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_ELROS_TAR_MINYATUR" Type="BUILDING_NUMENOREAN_WALLS" Icon="ICON_BUILDING_NUMENOREAN_WALLS" Name="LOC_BUILDING_NUMENOREAN_WALLS_NAME" Description="LOC_BUILDING_NUMENOREAN_WALLS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_ELROS_TAR_MINYATUR" Type="BUILDING_NUMENOREAN_TOWER" Icon="ICON_BUILDING_NUMENOREAN_TOWER" Name="LOC_BUILDING_NUMENOREAN_TOWER_NAME" Description="LOC_BUILDING_NUMENOREAN_TOWER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_ELROS_TAR_MINYATUR" Type="UNIT_NUMENOR_STEELBOW" Icon="ICON_UNIT_NUMENOR_STEELBOW" Name="LOC_UNIT_NUMENOR_STEELBOW_NAME" Description="LOC_UNIT_NUMENOR_STEELBOW_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_ELROS_TAR_MINYATUR" Type="UNIT_NUMENOR_SHIP" Icon="ICON_UNIT_NUMENOR_SHIP" Name="LOC_UNIT_NUMENOR_SHIP_NAME" Description="LOC_UNIT_NUMENOR_SHIP_DESCRIPTION" SortIndex="60"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_AR_PHARAZON" Type="UNIT_EDAIN_PHALANXES" Icon="ICON_UNIT_EDAIN_PHALANXES" Name="LOC_UNIT_EDAIN_PHALANXES_NAME" Description="LOC_UNIT_EDAIN_PHALANXES_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_AR_PHARAZON" Type="BUILDING_HEROIC_STATUE" Icon="ICON_BUILDING_HEROIC_STATUE" Name="LOC_BUILDING_HEROIC_STATUE_NAME" Description="LOC_BUILDING_HEROIC_STATUE_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_AR_PHARAZON" Type="BUILDING_NUMENOREAN_WALLS" Icon="ICON_BUILDING_NUMENOREAN_WALLS" Name="LOC_BUILDING_NUMENOREAN_WALLS_NAME" Description="LOC_BUILDING_NUMENOREAN_WALLS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_AR_PHARAZON" Type="BUILDING_NUMENOREAN_TOWER" Icon="ICON_BUILDING_NUMENOREAN_TOWER" Name="LOC_BUILDING_NUMENOREAN_TOWER_NAME" Description="LOC_BUILDING_NUMENOREAN_TOWER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_AR_PHARAZON" Type="UNIT_BLACK_NUMENOREAN_ARCHER" Icon="ICON_UNIT_BLACK_NUMENOREAN_ARCHER" Name="LOC_UNIT_BLACK_NUMENOREAN_ARCHER_NAME" Description="LOC_UNIT_BLACK_NUMENOREAN_ARCHER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_NUMENOR" LeaderType="LEADER_AR_PHARAZON" Type="UNIT_NUMENOR_SHIP" Icon="ICON_UNIT_NUMENOR_SHIP" Name="LOC_UNIT_NUMENOR_SHIP_NAME" Description="LOC_UNIT_NUMENOR_SHIP_DESCRIPTION" SortIndex="60"/>
+
+	</PlayerItems>
+</GameData>

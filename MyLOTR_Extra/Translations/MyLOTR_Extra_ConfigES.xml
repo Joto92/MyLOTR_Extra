@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- ELDAR| GIL_GALAD	-->
+		<Replace Tag="LOC_LEADER_GIL_GALAD_NAME" Language="es_ES">
+			<Text>Gil-Galad</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_EREINION_NAME" Language="es_ES">
+			<Text>Ereinion</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_EREINION_DESCRIPTION" Language="es_ES">
+			<Text>Todas las ciudades descubiertas o conquistadas en un continente distinto a tu continente de origen recibirán una unidad de cuerpo a cuerpo gratis. Territorio adicional al fundar ciudades.</Text>
+		</Replace>
+		<!-- END OF ELDAR| GIL_GALAD -->
+		<!-- ELDAR| CELEBRIMBOR	-->
+		<Replace Tag="LOC_LEADER_CELEBRIMBOR_NAME" Language="es_ES">
+			<Text>Celebrimbor</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_TELPERINQUAR_NAME" Language="es_ES">
+			<Text>Telperinquar</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_TELPERINQUAR_DESCRIPTION" Language="es_ES">
+			<Text>Todas las minas dan 1 [ICON_Gold] Oro. us Rutas comerciales [ICON_TradeRoute] con otras civilizaciones proporcionan +4 de Oro [ICON_Gold] para Celebrimbor. Las Rutas comerciales [ICON_TradeRoute] de otras civilizaciones con Celebrimbor les proporcionan +2 a Alimentos [ICON_Food] a dichas civilizaciones y +2 de Oro [ICON_Gold] a Celebrimbor.</Text>
+		</Replace>
+		<!-- END OF ELDAR| CELEBRIMBOR -->
+		<!-- SILVAN| OROPHER	-->
+		<Replace Tag="LOC_LEADER_OROPHER_NAME" Language="es_ES">
+			<Text>Oropher</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GREENWOOD_THE_GREAT_NAME" Language="es_ES">
+			<Text>Bosque Verde el Grande</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_GREENWOOD_THE_GREAT_DESCRIPTION" Language="es_ES">
+			<Text>Territorio adicional al fundar ciudades y todas sus unidades pueden moverse más rapido en Bosques y Junglas. Todas las ciudades empiezan con un Centro urbano adicional. (En la Antigüedad se empieza con un Monumento).</Text>
+		</Replace>
+		<!-- END OF SILVAN| OROPHER -->
+		<!-- DWARVES| THROR	-->
+		<Replace Tag="LOC_LEADER_THROR_NAME" Language="es_ES">
+			<Text>Thrór</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_HEART_OF_THE_MOUNTAIN_NAME" Language="es_ES">
+			<Text>Corazon de la Montaña</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_HEART_OF_THE_MOUNTAIN_DESCRIPTION" Language="es_ES">
+			<Text>Los recursos de lujo de su territorio otorgan Servicios [ICON_Amenities] a 2 ciudades extra. +1 a la Fuerza de combate [ICON_Strength] de las unidades militares por cada recurso de lujo diferente mejorado en tierras aztecas.</Text>
+		</Replace>
+		<!-- END OF DWARVES| THROR -->
+		<!-- DWARVES| THORIN_II_OAKENSHIELD	-->
+		<Replace Tag="LOC_LEADER_THORIN_II_OAKENSHIELD_NAME" Language="es_ES">
+			<Text>Thorin II Escudo de Roble</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_KING_IN_EXILE_NAME" Language="es_ES">
+			<Text>Rey-en-Exilo</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_KING_IN_EXILE_DESCRIPTION" Language="es_ES">
+			<Text>Crecimiento un 15% más rápido para las ciudades que no estén en el continente original de tu capital [ICON_Capital]. El coste de los Colonos se reduce un 50%. El coste de la compra de parcelas se reduce un 20%.</Text>
+		</Replace>
+		<!-- END OF DWARVES| THROR -->
+		<!-- GONDOR| DENETHOR_II	-->
+		<Replace Tag="LOC_LEADER_DENETHOR_II_NAME" Language="es_ES">
+			<Text>Denethor II</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_STEWARD_OF_GONDOR_NAME" Language="es_ES">
+			<Text>Senescal de Gondor</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_STEWARD_OF_GONDOR_DESCRIPTION" Language="es_ES">
+			<Text>Las unidades reciben un bonus de +5 Fuerza de Combate en su propìo continente.</Text>
+		</Replace>
+		<!-- END OF GONDOR| DENETHOR_II -->
+		<!-- ROHAN| EORL_THE_YOUNG	-->
+		<Replace Tag="LOC_LEADER_EORL_THE_YOUNG_NAME" Language="es_ES">
+			<Text>Eorl el Joven</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LORD_EOTHEOD_NAME" Language="es_ES">
+			<Text>Señor de los Éothéod</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_LORD_EOTHEOD_DESCRIPTION" Language="es_ES">
+			<Text>Puede declararle la guerra cualquiera que esté en guerra con sus aliados sin sufrir penalizaciones por belicosidad. Cuando estén en guerra contra un enemigo común, sus aliados y ellos comparten las recompensas por saqueo y la experiencia de combate ganada si se encuentran a una distancia de 5 casillas o menos.</Text>
+		</Replace>
+		<!-- END OF ROHAN| EORL_THE_YOUNG -->
+		<!-- NUMENOR | ELROS_TAR_MINYATUR	-->
+		<Replace Tag="LOC_CIVILIZATION_NUMENOR_NAME" Language="es_ES">
+			<Text>Númenor</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NUMENOR_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Númenor</Text>
+		</Replace>
+		<Replace Tag="LOC_CIVILIZATION_NUMENOR_ADJECTIVE" Language="es_ES">
+			<Text>Numenorean</Text>
+		</Replace>
+		<Replace Tag="LOC_LEADER_ELROS_TAR_MINYATUR_NAME" Language="es_ES">
+			<Text>Elros Tar-Minyatur</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_RULERS_OF_THE_GREAT_SEA_NAME" Language="es_ES">
+			<Text>Gobernantes del Gran Mar</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_RULERS_OF_THE_GREAT_SEA_DESCRIPTION" Language="es_ES">
+			<Text>Al construir maravillas antiguas y clásicas puedes gastar cargas de Constructor para completar el 15% del coste original de la maravilla. Los Constructores reciben una carga adicional. Las unidades consiguen la habilidad de entrar en aguas profundas después de investigar la tecnología de la Construcción naval.</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_FIRST_RULER_NAME" Language="es_ES">
+			<Text>Primer Gobernante</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_FIRST_RULER_DESCRIPTION" Language="es_ES">
+			<Text>Todos los distritos reciben una bonificación por adyacencia adicional por estar adyacentes a otro distrito. Las Rutas comerciales [ICON_TradeRoute] entre varios continentes reciben una bonificación de Oro [ICON_Gold] si son con otras civilizaciones; y bonificación a Alimentos [ICON_Food] y Producción [ICON_Production] si son entre tus ciudades.</Text>
+		</Replace>
+		<!-- END OF NUMENOR | ELROS_TAR_MINYATUR -->
+		<!-- NUMENOR| AR_PHARAZON	-->
+		<Replace Tag="LOC_LEADER_AR_PHARAZON_NAME" Language="es_ES">
+			<Text>Ar-Pharazôn</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CORRUPT_NUMENOREAN_NAME" Language="es_ES">
+			<Text>Numenorean Corrompido</Text>
+		</Replace>
+		<Replace Tag="LOC_TRAIT_CORRUPT_NUMENOREAN_DESCRIPTION" Language="es_ES">
+			<Text>Las unidades navales de cuerpo a cuerpo se curan en territorio neutral. Las unidades ignoran los costes de Movimiento [ICON_Movement] adicionales por embarcar y desembarcar. +5 a la Fuerza de combate [ICON_STRENGTH] de las unidades terrestres en casillas terrestres adyacentes a la Costa. +5 a la Fuerza de combate [ICON_Strength] de las unidades navales en casillas de aguas poco profundas.</Text>
+		</Replace>
+		<!-- END OF NUMENOR| AR_PHARAZON -->
+	</LocalizedText>
+</GameData>

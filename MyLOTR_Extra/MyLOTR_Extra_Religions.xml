@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<FavoredReligions>
+		<Row LeaderType="LEADER_GIL_GALAD" ReligionType="RELIGION_ELBERETH" />
+		<Row LeaderType="LEADER_CELEBRIMBOR" ReligionType="RELIGION_AULE" />
+		<Row LeaderType="LEADER_OROPHER" ReligionType="RELIGION_YAVANNA" />
+		<Row LeaderType="LEADER_THROR" ReligionType="RELIGION_AULE" />
+		<Row LeaderType="LEADER_THORIN_II_OAKENSHIELD" ReligionType="RELIGION_AULE" />
+		<Row LeaderType="LEADER_DENETHOR_II" ReligionType="RELIGION_ERU_ILUVATAR" />
+		<Row LeaderType="LEADER_EORL_THE_YOUNG" ReligionType="RELIGION_OROME" />
+		<Row LeaderType="LEADER_ELROS_TAR_MINYATUR" ReligionType="RELIGION_UINEN" />
+		<Row LeaderType="LEADER_AR_PHARAZON" ReligionType="RELIGION_MELKOR" />
+
+
+	</FavoredReligions>
+</GameData>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="LeaderFallback"/>
+	<m_PackageName text="LeaderFallbacks"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GIL_GALAD"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GIL_GALAD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_THROR"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_THROR"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_THORIN_II_OAKENSHIELD"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_THORIN_II_OAKENSHIELD"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DENETHOR_II"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DENETHOR_II"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_EORL_THE_YOUNG"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_EORL_THE_YOUNG"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_AR_PHARAZON"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_AR_PHARAZON"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_CELEBRIMBOR"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_CELEBRIMBOR"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ELROS_TAR_MINYATUR"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ELROS_TAR_MINYATUR"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_OROPHER"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_OROPHER"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

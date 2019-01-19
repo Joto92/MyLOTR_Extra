@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- ELDAR| GIL_GALAD	-->
+		<Row Tag="LOC_LEADER_GIL_GALAD_NAME" Language="en_US">
+			<Text>Gil-Galad</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_EREINION_NAME" Language="en_US">
+			<Text>Ereinion</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_EREINION_DESCRIPTION" Language="en_US">
+			<Text>All found or conquered cities on a continent other than your home continent receive a free melee unit.Extra territory upon founding cities.</Text>
+		</Row>
+		<!-- END OF ELDAR| GIL_GALAD -->
+		<!-- ELDAR| CELEBRIMBOR	-->
+		<Row Tag="LOC_LEADER_CELEBRIMBOR_NAME" Language="en_US">
+			<Text>Celebrimbor</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_TELPERINQUAR_NAME" Language="en_US">
+			<Text>Telperinquar</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_TELPERINQUAR_DESCRIPTION" Language="en_US">
+			<Text>All mines gives 1 [ICON_Gold] Gold. Your Trade Routes to other civilizations provide +4 Gold for Celebrimbor. Other civilizations' Trade Routes to Celebrimbor provide +2 Food for them and +2 Gold for Celebrimbor.</Text>
+		</Row>
+		<!-- END OF ELDAR| CELEBRIMBOR -->
+		<!-- SILVAN| OROPHER	-->
+		<Row Tag="LOC_LEADER_OROPHER_NAME" Language="en_US">
+			<Text>Oropher</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GREENWOOD_THE_GREAT_NAME" Language="en_US">
+			<Text>Greenwood The Great</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GREENWOOD_THE_GREAT_DESCRIPTION" Language="en_US">
+			<Text>Extra territory upon founding cities and can move through Woods and Rainforest without [ICON_Movement] Movement penalty. New cities start with a free building, usually a Monument.</Text>
+		</Row>
+		<!-- END OF SILVAN| OROPHER -->
+		<!-- DWARVES| THROR	-->
+		<Row Tag="LOC_LEADER_THROR_NAME" Language="en_US">
+			<Text>Thrór</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_HEART_OF_THE_MOUNTAIN_NAME" Language="en_US">
+			<Text>Heart of the Mountain</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_HEART_OF_THE_MOUNTAIN_DESCRIPTION" Language="en_US">
+			<Text>Luxury resources in his territory provide an [ICON_Amenities] Amenity to 2 extra cities. Military units receive +1 [ICON_Strength] Combat Strength for each different Luxury resource improved in Aztec lands.</Text>
+		</Row>
+		<!-- END OF DWARVES| THROR -->
+		<!-- DWARVES| THORIN_II_OAKENSHIELD	-->
+		<Row Tag="LOC_LEADER_THORIN_II_OAKENSHIELD_NAME" Language="en_US">
+			<Text>Thorin II Oakenshield</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_KING_IN_EXILE_NAME" Language="en_US">
+			<Text>King-in-Exile</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_KING_IN_EXILE_DESCRIPTION" Language="en_US">
+			<Text>+15% faster growth for cities not on your original [ICON_Capital] Capital's continent. Settler cost reduced by 50%. Plot purchase cost reduced by 20%.</Text>
+		</Row>
+		<!-- END OF DWARVES| THROR -->
+		<!-- GONDOR| DENETHOR_II	-->
+		<Row Tag="LOC_LEADER_DENETHOR_II_NAME" Language="en_US">
+			<Text>Denethor II</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_STEWARD_OF_GONDOR_NAME" Language="en_US">
+			<Text>Steward of Gondor</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_STEWARD_OF_GONDOR_DESCRIPTION" Language="en_US">
+			<Text>Units receive a +5 Combat Strength bonus on their home continent.</Text>
+		</Row>
+		<!-- END OF GONDOR| DENETHOR_II -->
+		<!-- ROHAN| EORL_THE_YOUNG	-->
+		<Row Tag="LOC_LEADER_EORL_THE_YOUNG_NAME" Language="en_US">
+			<Text>Eorl the Young</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LORD_EOTHEOD_NAME" Language="en_US">
+			<Text>Lord of the Éothéod</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_LORD_EOTHEOD_DESCRIPTION" Language="en_US">
+			<Text>May declare war on anyone at war with their allies without warmonger penalties. When at war with a common foe, they and their allies share pillage rewards and share combat experience gains if within 5 tiles.</Text>
+		</Row>
+		<!-- END OF ROHAN| EORL_THE_YOUNG -->
+		<!-- NUMENOR | ELROS_TAR_MINYATUR	-->
+		<Row Tag="LOC_CIVILIZATION_NUMENOR_NAME" Language="en_US">
+			<Text>Númenor</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NUMENOR_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Númenor</Text>
+		</Row>
+		<Row Tag="LOC_CIVILIZATION_NUMENOR_ADJECTIVE" Language="en_US">
+			<Text>Numenorean</Text>
+		</Row>
+		<Row Tag="LOC_LEADER_ELROS_TAR_MINYATUR_NAME" Language="en_US">
+			<Text>Elros Tar-Minyatur</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_RULERS_OF_THE_GREAT_SEA_NAME" Language="en_US">
+			<Text>Rulers of the Great Sea</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_RULERS_OF_THE_GREAT_SEA_DESCRIPTION" Language="en_US">
+			<Text>When building Ancient and Classical wonders you may spend Builder charges to complete 15% of the original wonder cost. Builders receive an additional charge. Units gain the ability to enter Ocean tiles after researching the Shipbuilding technology.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FIRST_RULER_NAME" Language="en_US">
+			<Text>First Ruler</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FIRST_RULER_DESCRIPTION" Language="en_US">
+			<Text>All districts receive an additional standard adjacency bonus for being adjacent to another district. [ICON_TradeRoute] Trade Routes between multiple continents receive bonus [ICON_Gold] Gold for routes to other civilizations, and bonus [ICON_Food] Food and [ICON_Production] Production for routes between your own cities.</Text>
+		</Row>
+		<!-- END OF NUMENOR | ELROS_TAR_MINYATUR -->
+		<!-- NUMENOR| AR_PHARAZON	-->
+		<Row Tag="LOC_LEADER_AR_PHARAZON_NAME" Language="en_US">
+			<Text>Ar-Pharazôn</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CORRUPT_NUMENOREAN_NAME" Language="en_US">
+			<Text>Corrupt Numenorean</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CORRUPT_NUMENOREAN_DESCRIPTION" Language="en_US">
+			<Text>Naval melee units heal in neutral territory. Units ignore additional [ICON_Movement] Movement costs from embarking and disembarking. Land units receive +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast; naval units receive +5 [ICON_Strength] Combat Strength in shallow water tiles.</Text>
+		</Row>
+		<!-- END OF NUMENOR| AR_PHARAZON -->
+	</LocalizedText>
+</GameData>

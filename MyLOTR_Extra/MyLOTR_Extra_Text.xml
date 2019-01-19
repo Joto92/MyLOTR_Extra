@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- ELDAR | GIL_GALAD	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GIL_GALAD" Language="en_US">
+			<Text> He was the last High King of the Ñoldor in Middle-earth, and bore many titles, including High King of the Elves of the West, King of the Eldar, King of Lindon, Lord of the High Elves, and the Lord of Eriador.  He formed the Last Alliance of Elves and Men with Elendil, and he led the Elves, who were undivided, to war against Sauron during this time. His death marked the end of the Ñoldor Kingdoms in Middle-earth, though many Ñoldor still dwelt in Imladris throughout the Third Age.</Text>
+		</Row>
+		<!-- END OF ELDAR | GIL_GALAD -->
+		<!-- ELDAR | CELEBRIMBOR	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_CELEBRIMBOR" Language="en_US">
+			<Text>Celebrimbor was a Ñoldorin prince, and the last in the line of the House of Fëanor, who lived in Middle-earth. He was a ruler of Eregion in the Second Age, and a master smith. He is remembered primarily for his creation of the three greatest Elven Rings of Power: Vilya, Narya, and Nenya. </Text>
+		</Row>
+		<!-- END OF ELDAR | CELEBRIMBOR -->
+		<!-- SILVAN | OROPHER	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_OROPHER" Language="en_US">
+			<Text>Oropher was the father of Thranduil of Mirkwood and grandfather of Legolas, and the Sindarin King of the Silvan Elves of Greenwood the Great during the Second Age.  Oropher answered the summons for the Last Alliance of Elves and Men but marched as an independent army with Amdír, or Malgalad the then King of Lórien. He joined with Gil-galad's forces as they marched down the Anduin to Dagorlad, where he died.</Text>
+		</Row>
+		<!-- END OF SILVAN | OROPHER -->
+		<!-- DWARVES| THROR	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_THROR" Language="en_US">
+			<Text>Thrór was a King of Durin's Folk. Under Thrór's leadership, Erebor prospered for over a century. Eventually the wealth of the kingdom attracted the attention of the dragon known as Smaug, who flew south and destroyed the kingdom, killing hundreds of Dwarves and driving away Thrór and his family, and thousands of other surviving dwarves.</Text>
+		</Row>
+		<!-- END OF DWARVES| THROR -->
+		<!-- DWARVES| THORIN_II_OAKENSHIELD	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_THORIN_II_OAKENSHIELD" Language="en_US">
+			<Text>Thorin II was the son of Thráin II, the grandson of King Thrór. Thorin was best known for his deeds as leader of a company that infiltrated the lost Kingdom under the Mountain to take it back from Smaug and for leading an alliance of Men, Dwarves, and Elves in the Battle of the Five Armies. </Text>
+		</Row>
+		<!-- END OF DWARVES| THORIN_II_OAKENSHIELD -->
+		<!-- GONDOR| DENETHOR_II	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DENETHOR_II" Language="en_US">
+			<Text>Denethor II was the twenty-sixth Ruling Steward of Gondor, and father of the War of the Ring heroes Boromir and Faramir. Denethor II ruled as the Steward of Gondor for 35 years, from TA 2984 until his death on TA 3019. The title of the Ruling Steward was passed to his son, Faramir.</Text>
+		</Row>
+		<!-- END OF GONDOR| DENETHOR_II -->
+		<!-- ROHAN| EORL_THE_YOUNG	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_EORL_THE_YOUNG" Language="en_US">
+			<Text>Eorl the Young was the Lord of the Éothéod and the first King of Rohan. He founded of the House of Eorl, which ruled Rohan. Gondor was being threatened by Men from Rhun called the Balchoth, and Cirion sought Eorl's help in defeating them. Eorl agreed to come, because he knew that if Gondor fell, all of Middle-earth would soon be conquered.</Text>
+		</Row>
+		<!-- END OF ROHAN| EORL_THE_YOUNG -->
+		<!-- NUMENOR | ELROS_TAR_MINYATUR	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ELROS_TAR_MINYATUR" Language="en_US">
+			<Text>Elros Tar-Minyatur, the Half-elven, was the son of Eärendil and Elwing, brother of Elrond. First King of Númenor; ancestor to a line of kings especially to his descendant Aragorn II Elessar. He had a strong friendship with the Elves, who were half his kin. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ARMENELOS" Language="en_US">
+			<Text>Armenelos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANDUNIE" Language="en_US">
+			<Text>Andúnië</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ELDALONDE" Language="en_US">
+			<Text>Eldalondë</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NINDAMOS" Language="en_US">
+			<Text>Nindamos</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ONDOSTO" Language="en_US">
+			<Text>Ondosto</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ROMENNA" Language="en_US">
+			<Text>Rómenna</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ALMAIDA" Language="en_US">
+			<Text>Almaida</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_OROMET" Language="en_US">
+			<Text>Oromet</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HYARASTORNI" Language="en_US">
+			<Text>Hyarastorni</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_FOROSTAR" Language="en_US">
+			<Text>Forostar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ANDUSTAR" Language="en_US">
+			<Text>Andustar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NISIMALDAR" Language="en_US">
+			<Text>Nísimaldar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HYARNUSTAR" Language="en_US">
+			<Text>Hyarnustar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HYARROSTAR" Language="en_US">
+			<Text>Hyarrostar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ORROSTAR" Language="en_US">
+			<Text>Orrostar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MITTALMAR" Language="en_US">
+			<Text>Mittalmar</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ERELOND" Language="en_US">
+			<Text>Erelond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_LOND_ERNIL" Language="en_US">
+			<Text>Lond Ernil</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GOBEL_TOLFALAS" Language="en_US">
+			<Text>Gobel Tolfalas</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BARAD_CARANNUN" Language="en_US">
+			<Text>Barad Carannun</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HYARPENDE" Language="en_US">
+			<Text>Hyarpendë</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_TIR_ETHARAID" Language="en_US">
+			<Text>Tir Etharaid</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_SARLOND" Language="en_US">
+			<Text>Sarlond</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DUSALAN" Language="en_US">
+			<Text>Dûsalan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_UREZAYAN" Language="en_US">
+			<Text>Ûrêzâyan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NARIK_ZADAN" Language="en_US">
+			<Text>Narik-Zadan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_NILULONDE" Language="en_US">
+			<Text>Nilulonde</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_BOZISHA_DAR" Language="en_US">
+			<Text>Bozisha-Dar</Text>
+		</Row>
+		<!-- END OF NUMENOR | ELROS_TAR_MINYATUR -->
+		<!-- NUMENOR| AR_PHARAZON	-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_AR_PHARAZON" Language="en_US">
+			<Text>Ar-Pharazôn the Golden, was the twenty-fifth and last King of Númenor. Of all the Kings of Númenor, he wielded the most power, but used it most unwisely; his desire for more eternal life caused the destruction of Númenor and the Change of the World. </Text>
+		</Row>
+		<!-- END OF NUMENOR| AR_PHARAZON -->
+		<!-- RHOVANION-->
+		<Row Tag="LOC_MINOR_CIV_RHOVANION_TRAIT_NAME" Language="en_US">
+			<Text>Rhovanion</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_RHOVANION_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Industrial Zones gain +1 [ICON_Production] if next to a river.</Text>
+		</Row>
+		<Row Tag="LOC_RHOVANION_NAME" Language="en_US">
+			<Text>Rhovanion</Text>
+		</Row>
+		<Row Tag="LOC_RHOVANION_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Rhovanion</Text>
+		</Row>
+		<Row Tag="LOC_RHOVANION_ADJECTIVE" Language="en_US">
+			<Text>Rhovanion</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_RHOVANION" Language="en_US">
+			<Text>Rhovanion</Text>
+		</Row>
+		<!-- ANDUSTAR-->
+		<Row Tag="LOC_MINOR_CIV_ANDUSTAR_TRAIT_NAME" Language="en_US">
+			<Text>Andustar</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ANDUSTAR_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to other civilizations provide +4 [ICON_Faith] Faith for you. Other civilizations' [ICON_TradeRoute] Trade Routes to you provide +2 [ICON_Faith] Faith for you.</Text>
+		</Row>
+		<Row Tag="LOC_ANDUSTAR_NAME" Language="en_US">
+			<Text>Andustar</Text>
+		</Row>
+		<Row Tag="LOC_ANDUSTAR_DESCRIPTION" Language="en_US">
+			<Text>Andustar</Text>
+		</Row>
+		<Row Tag="LOC_ANDUSTAR_ADJECTIVE" Language="en_US">
+			<Text>Andustar</Text>
+		</Row>
+		<!-- ARTHEDAIN-->
+		<Row Tag="LOC_MINOR_CIV_ARTHEDAIN_TRAIT_NAME" Language="en_US">
+			<Text>Arthedain</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ARTHEDAIN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Theater districts provide +1 [ICON_TradeRoute] Trade Route capacity each.</Text>
+		</Row>
+		<Row Tag="LOC_ARTHEDAIN_NAME" Language="en_US">
+			<Text>Arthedain</Text>
+		</Row>
+		<Row Tag="LOC_ARTHEDAIN_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Arthedain</Text>
+		</Row>
+		<Row Tag="LOC_ARTHEDAIN_ADJECTIVE" Language="en_US">
+			<Text>Arthedain</Text>
+		</Row>
+		<!-- CARDOLAN-->
+		<Row Tag="LOC_MINOR_CIV_CARDOLAN_TRAIT_NAME" Language="en_US">
+			<Text>Cardolan</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_CARDOLAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a River. </Text>
+		</Row>
+		<Row Tag="LOC_CARDOLAN_NAME" Language="en_US">
+			<Text>Cardolan</Text>
+		</Row>
+		<Row Tag="LOC_CARDOLAN_DESCRIPTION" Language="en_US">
+			<Text>Kingdom of Cardolan</Text>
+		</Row>
+		<Row Tag="LOC_CARDOLAN_ADJECTIVE" Language="en_US">
+			<Text>Cardolan</Text>
+		</Row>
+		<!-- EDHELLOND-->
+		<Row Tag="LOC_MINOR_CIV_EDHELLOND_TRAIT_NAME" Language="en_US">
+			<Text>Edhellond</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_EDHELLOND_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +2 [ICON_Science] Science for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_EDHELLOND_NAME" Language="en_US">
+			<Text>Edhellond</Text>
+		</Row>
+		<Row Tag="LOC_EDHELLOND_DESCRIPTION" Language="en_US">
+			<Text>Realm of Edhellond</Text>
+		</Row>
+		<Row Tag="LOC_EDHELLOND_ADJECTIVE" Language="en_US">
+			<Text>Edhellond</Text>
+		</Row>
+		<!-- ANFALAS-->
+		<Row Tag="LOC_MINOR_CIV_ANFALAS_TRAIT_NAME" Language="en_US">
+			<Text>Anfalas</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_ANFALAS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Fisherboats gain +1 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_ANFALAS_NAME" Language="en_US">
+			<Text>Anfalas</Text>
+		</Row>
+		<Row Tag="LOC_ANFALAS_DESCRIPTION" Language="en_US">
+			<Text>Anfalas</Text>
+		</Row>
+		<Row Tag="LOC_ANFALAS_ADJECTIVE" Language="en_US">
+			<Text>Anfalas</Text>
+		</Row>
+		<!-- MORNAN-->
+		<Row Tag="LOC_MINOR_CIV_MORNAN_TRAIT_NAME" Language="en_US">
+			<Text>Mornan</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_MORNAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Ranged units receive +4 [ICON_Strength] Combat Strength.</Text>
+		</Row>
+		<Row Tag="LOC_MORNAN_NAME" Language="en_US">
+			<Text>Mornan</Text>
+		</Row>
+		<Row Tag="LOC_MORNAN_DESCRIPTION" Language="en_US">
+			<Text>Mornan</Text>
+		</Row>
+		<Row Tag="LOC_MORNAN_ADJECTIVE" Language="en_US">
+			<Text>Mornan</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_MORNAN" Language="en_US">
+			<Text>Mornan</Text>
+		</Row>
+		<!-- PINNATH_GELIN-->
+		<Row Tag="LOC_MINOR_CIV_PINNATH_GELIN_TRAIT_NAME" Language="en_US">
+			<Text>Pinnath Gelin</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_PINNATH_GELIN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold adjacency bonus from hills to Comercial Hub</Text>
+		</Row>
+		<Row Tag="LOC_PINNATH_GELIN_NAME" Language="en_US">
+			<Text>Pinnath Gelin</Text>
+		</Row>
+		<Row Tag="LOC_PINNATH_GELIN_DESCRIPTION" Language="en_US">
+			<Text>Pinnath Gelin</Text>
+		</Row>
+		<Row Tag="LOC_PINNATH_GELIN_ADJECTIVE" Language="en_US">
+			<Text>Pinnath Gelin</Text>
+		</Row>
+		<!-- LAMEDON-->
+		<Row Tag="LOC_MINOR_CIV_LAMEDON_TRAIT_NAME" Language="en_US">
+			<Text>Lamedon</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_LAMEDON_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Industrial Zone districts provide +1 [ICON_TradeRoute] Trade Route capacity each.</Text>
+		</Row>
+		<Row Tag="LOC_LAMEDON_NAME" Language="en_US">
+			<Text>Lamedon</Text>
+		</Row>
+		<Row Tag="LOC_LAMEDON_DESCRIPTION" Language="en_US">
+			<Text>Lamedon</Text>
+		</Row>
+		<Row Tag="LOC_LAMEDON_ADJECTIVE" Language="en_US">
+			<Text>Lamedon</Text>
+		</Row>
+		<!-- EOTHEOD-->
+		<Row Tag="LOC_MINOR_CIV_EOTHEOD_TRAIT_NAME" Language="en_US">
+			<Text>Éothéod</Text>
+		</Row>
+		<Row Tag="LOC_MINOR_CIV_EOTHEOD_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+20% Production toward Heavy Cavalry units from the Ancient, Medieval, Modern and Information Eras.</Text>
+		</Row>
+		<Row Tag="LOC_EOTHEOD_NAME" Language="en_US">
+			<Text>Éothéod</Text>
+		</Row>
+		<Row Tag="LOC_EOTHEOD_DESCRIPTION" Language="en_US">
+			<Text>Éothéod</Text>
+		</Row>
+		<Row Tag="LOC_EOTHEOD_ADJECTIVE" Language="en_US">
+			<Text>Éothéod</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

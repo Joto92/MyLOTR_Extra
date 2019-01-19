@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- QUOTES >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>-->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GIL_GALAD_QUOTE"  Language="en_US">
+			<Text>Gil-galad was an Elven-king.[NEWLINE]Of him the harpers sadly sing;[NEWLINE]the last whose realm was fair and free[NEWLINE]between the Mountains and the Sea.[NEWLINE][NEWLINE]His sword was long, his lance was keen.[NEWLINE]His shining helm afar was seen;[NEWLINE]the countless stars of heaven's field[NEWLINE]were mirrored in his silver shield.[NEWLINE][NEWLINE]But long ago he rode away,[NEWLINE]and where he dwelleth none can say;[NEWLINE]for into darkness fell his star[NEWLINE]in Mordor where the shadows are.[NEWLINE]- Song The Fall of Gil-galad</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CELEBRIMBOR_QUOTE"  Language="en_US">
+			<Text>Vengeance does not dull pain. It sustains it.... forever.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THROR_QUOTE"  Language="en_US">
+			<Text>"Thrór's love of gold grown too fierce and sickness had begun to grow within him. It was a sickness of the mind. And where sickness thrives, bad things will follow..." [NEWLINE]– Bilbo about Thrór</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THORIN_II_OAKENSHIELD_QUOTE"  Language="en_US">
+			<Text>We are sons of Durin. And Durin's Folk do not flee from a fight.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DENETHOR_II_QUOTE"  Language="en_US">
+			<Text>Ever your desire is to appear lordly and generous as a king of old... But in desperate hours gentleness may be repaid with death.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AR_PHARAZON_QUOTE"  Language="en_US">
+			<Text>"Ar-Pharazôn the Golden was the proudest and most powerful of all the Kings, and no less than the kingship of the world was his desire" [NEWLINE]– About Ar-Pharazôn</Text>
+		</Row>
+		<!-- NUMENOR-->
+		<Row Tag="LOC_CIVINFO_NUMENOR_LOCATION" Language="en_US">
+			<Text>Númenor</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUMENOR_SIZE" Language="en_US">
+			<Text>The Island of Númenor was 168,000 square miles</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUMENOR_POPULATION" Language="en_US">
+			<Text>30,000 at the start of SA, 2.5 million at SA 1700, 7 million at SA 2100, 18 million at SA 3319 (colonies included)</Text>
+		</Row>
+		<Row Tag="LOC_CIVINFO_NUMENOR_CAPITAL" Language="en_US">
+			<Text>Armenelos(SA 32 - SA 3319)</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUMENOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Númenor was a great kingdom of Men, established on an island brought up out of the sea by the Valar in the early Second Age after the final ruin of Beleriand, and was where the Númenoreans originated from. After the great war with the Dark Lord Morgoth, the Valar took pity on the House of Bëor for their sufferings. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUMENOR_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Elros son of Eärendil was the first King of Númenor, taking the name of Tar-Minyatur ("First King"). Under his rule (year SA 32 to SA 442 of the Second Age), and those of his descendants, Men rose to become a powerful race. The first ships sailed from Númenor to Middle-earth in the year SA 600 of the Second Age. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CIVILIZATIONS_PAGE_CIVILIZATION_NUMENOR_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Prompted by Sauron and fearing death and old age, Ar-Pharazôn built a great armada and set sail into the west to make war upon the Valar and seize the Undying Lands (Sauron remained behind). In the year SA 3319 of the Second Age, Ar-Pharazôn landed on Aman and marched to the city of Valimar. Manwë, chief of the angelic Valar, called upon Ilúvatar, who broke and changed the world, trapping Ar-Pharazôn and his mighty host who landed on Aman in mounds of dirt and inside the Caves of the Forgotten until the last battle, taking Aman and Tol Eressëa from the spheres of Arda forever, changing the world's shape from flat to round and sinking Númenor and killing its inhabitants, including the body of Sauron who was thereby robbed of his ability to assume fair and charming forms. </Text>
+		</Row>
+		<!-- LEADERS -->
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GIL_GALAD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Gil-galad was a Ñoldorin Elf, son of Orodreth. He was the last High King of the Ñoldor in Middle-earth, and bore many titles, including High King of the Elves of the West, King of the Eldar, King of Lindon, Lord of the High Elves, and the Lord of Eriador. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GIL_GALAD_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Gil-galad held the highest authority among the Elves he ruled and was respected by both the Ñoldor and the Sindar. He was considered the High King of the Elves in Middle-earth. He formed the Last Alliance of Elves and Men with Elendil, and led the Elves to war against Sauron during this time. His death marked the end of the Ñoldorin Kingdoms in Middle-earth, though many Ñoldor would still dwell in Imladris later throughout the Third Age. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CELEBRIMBOR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Celebrimbor was a Ñoldorin prince, and the last in the line of the House of Fëanor, who lived in Middle-earth. He was a ruler of Eregion in the Second Age, and a master smith. He is remembered primarily for his creation of the three greatest Elven Rings of Power: Vilya, Narya, and Nenya. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_CELEBRIMBOR_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Celebrimbor was the son of Curufin, who was the fifth son of Fëanor (son of Finwë and his first wife Miriel) and Nerdanel.[3] During the First Age, he lived with his father in Nargothrond, but took no part in the deeds of Curufin and Celegorm regarding Lúthien, Beren, and Finrod. He in fact repudiated his father's deeds, and did not follow his father and uncle when they were expelled from Nargothrond.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OROPHER_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Oropher was the father of Thranduil of Mirkwood and grandfather of Legolas, and the Sindarin King of the Silvan Elves of Greenwood the Great during the Second Age.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OROPHER_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Oropher was one of the Sindar of Doriath. After the War of Wrath, he declined to depart Middle-earth as many others did, and instead went over the Blue Mountains with his household. He eventually ended up in Greenwood the Great, where Silvan Elves of Nandorin descent lived, and he was taken by them as lord. His capital was at Amon Lanc.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_OROPHER_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Though he and his people had little to do with the other peoples of Middle-earth, Oropher understood that there could be no lasting peace until Sauron was defeated. Oropher answered the summons for the Last Alliance of Elves and Men but marched as an independent army with Amdír the then King of Lórien. He joined with Gil-galad's forces as they marched down the Anduin to Dagorlad. Oropher's company was lightly armed. In the Battle of Dagorlad, Oropher's company fought valiantly but he was slain with the greater part of his people when he, with King Amdír and his warriors, called an early charge upon the enemy, without orders from the Noldorin High-King Gil-galad. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THROR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Thrór was a King of Durin's Folk, the son of Dáin I, the grandson of Náin II, the father of Thráin II, the brother of Frór, and Grór, the grandfather of Thorin II Oakenshield, Frerin, and Dís, and the great-grandfather of Fíli and Kíli. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THROR_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>In his early life, Thrór and his family lived in the dragon-plagued Grey Mountains. In TA 2589, when their halls came under attack by Cold-drakes, his father Dáin I and younger brother Frór were both slain at their gates by a great Cold-Drake, and Thrór inherited the kingship. He and his youngest brother Grór resolved to divide their folk: Thrór led a small portion of the House of Durin to recolonize Erebor where they rediscovered the Arkenstone. Grór led a greater portion of Durin's Folk further east to the Iron Hills where he founded his Dwarven realm. Under Thrór's leadership, Erebor prospered for over a century. Eventually the wealth of the kingdom attracted the attention of the dragon known as Smaug, who flew south and destroyed the kingdom, killing hundreds of Dwarves and driving away Thrór and his family, as well as thousands of other surviving dwarves. The majority of the survivors migrated to the Iron Hills, but some followed King Thrór, his son Thráin II, and grandson Thorin Oakenshield west into a long and homeless wandering. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THROR_CHAPTER_HISTORY_PARA_3" Language="en_US">
+			<Text>Twenty years later in TA 2790, Thrór now old, poor, and desperate, gave to his son Thráin II the last of the Seven Rings and a map of the Lonely Mountain. He then left his people and journeyed away north with a single companion called Nár. They crossed over the Misty Mountains through the Redhorn Pass and then came south again, crossing the Silverlode into the valley of Azanulbizar beneath the East Gate of Moria. When they arrived, the gate was open. Nár begged Thrór to beware but Thrór disregarded his pleas and proudly entered Moria as its returning heir, but he did not come back. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_THORIN_II_OAKENSHIELD_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Thorin II, also called the Oakenshield, was the son of Thráin II, the older brother of Frerin and Dís, the grandson of King Thrór and the uncle of Fíli and Kíli. Thorin was best known for his deeds as leader of a company that infiltrated the lost Kingdom under the Mountain to take it back from Smaug and for leading an alliance of Men, Dwarves, and Elves in the Battle of the Five Armies. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DENETHOR_II_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Denethor II was the twenty-sixth Ruling Steward of Gondor, and father of the War of the Ring heroes Boromir and Faramir. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DENETHOR_II_CHAPTER_HISTORY_PARA_2" Language="en_US">
+			<Text>Denethor secretly used a Palantír to probe Sauron's strength, and he used it at the top of the White Tower in his secret chamber, above the Throne room. The effort aged him quickly, and the knowledge of Sauron's overwhelming force exacerbated the bitterness that had taken root at the time of the death of his wife, Finduilas, in TA 2988. Sauron used the Palantír to drive him mad with despair. He retained, however, an air of nobility and power. The death of Boromir, his eldest son and favorite, and the siege and apparent doom of the capital city drove Denethor further along the path to madness.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_EORL_THE_YOUNG_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Eorl the Young was the Lord of the Éothéod and the first King of Rohan. He founded of the House of Eorl, which ruled Rohan. After the Battle of the Field of Celebrant, Eorl accompanied Cirion to the Mering Stream on the southeastern border of Calenardhon, where they parted company. Cirion asked Eorl to meet him there again in three months and committed Calenardhon to Eorl's care in the meantime. Cirion offered Eorl the land of Calenardhon as a new homeland for his people in gratitude for their service to Gondor. Eorl was deeply grateful for the Gift of Cirion, whom he admired as the wisest of all men then in Middle-earth. He accepted and he swore an Oath that his people would always come to Gondor's aid in time of need. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ELROS_TAR_MINYATUR_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Elros, also known as Elros Tar-Minyatur, the Half-elven, was the son of Eärendil and Elwing, brother of Elrond, uncle of Elladan and Elrohir and Arwen Undómiel, and the first King of Númenor; ancestor to a line of kings especially to his descendant Aragorn II Elessar. He had a strong friendship with the Elves, who were half his kin. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_AR_PHARAZON_CHAPTER_HISTORY_PARA_1" Language="en_US">
+			<Text>Ar-Pharazôn, also known as Ar-Pharazôn the Golden, was the twenty-fifth and last King of Númenor. Of all the Kings of Númenor, he wielded the most power, but used it most unwisely; his desire for more eternal life caused the destruction of Númenor and the Change of the World. </Text>
+		</Row>
+		<!-- CITY STATE-->
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_RHOVANION_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Kingdom of Rhovanion was a realm of Men in the Middle-earth region of Rhovanion. The kingdom of Rhovanion was founded by the northmen and stretched from Mirkwood, in the west, to Dorwinion, in the east. It had strong ties with the kingdom of Gondor and fought side by side in its wars against the Easterlings of Rhûn. When the Kingdom was destroyed by the Easterling, refugees from Rhovanion were reorganized as the Éothéod on the other side of Mirkwood in the lower Vales of Anduin this people will become the ancestors of the Rohirrim.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANDUSTAR_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Andustar was the western region of Númenor, separated from the Hyarnustar to the south by the wide Bay of Eldanna. The Faithful, also known as Elendili or Elf-friends, referred to the minority faction of Númenóreans who remained friendly with the Elves and respectful and obedient to the Valar. Their most noted leader was Elendil, the Lord of Andúnië. It was known as the region which was built the city of Andúnië, the haven of the Faithful.  Lords of Andúnië were to be the ancestors of the Kings of Arnor and Kings of Gondor descended from.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ARTHEDAIN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Arthedain was one of the three realms of the Dúnedain of the North created from the fragmentation of the kingdom of Arnor. After the death of Arnor's King Eärendur, his sons divided the realm into the kingdoms of Arthedain, Rhudaur and Cardolan. The line of Isildur was maintained in Arthedain, but in Rhudaur and Cardolan the line faded quickly. Arthedain retained Weathertop and its Palantír as well as two others, which led to contention between the three kingdoms. In 1974 the Witch-king invaded Arthedain, capturing Fornost and driving most of the few Dúnedain across the Lhûn. King Arvedui held out for awhile in the North Downs until he and his guard were driven north. Although the realm of Angmar was crushed at the Battle of Fornost in 1975, he realm of Arthedain also came to an end and its lands remained mostly empty.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_CARDOLAN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Cardolan was sub-kingdom of the Dúnedain Kingdom of Arnor. After the death of its tenth King, Eärendur, his sons had divided Arnor into the kingdoms of Arthedain, Rhudaur and Cardolan. Arthedain-controlled Weather Hills, which contained the fortress of Weathertop and its valuable Palantír. For this reason the Weather Hills were claimed by all three kingdoms - Arthedain, Cardolan and Rhudaur. This territorial dispute continued until Rhudaur became a vassal of Angmar after the line of the Dúnedain kings failed there. When the kingdom of Angmar arose in northern Eriador, Cardolan became the most important ally of Arthedain. It had to fight the combined armies of both Angmar and Rhudaur. It soon became apparent that Cardolan could not hold back the forces of Angmar</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_EDHELLOND_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Edhellond was an ancient harbour in southern Gondor. Edhellond was founded by Sindar before the end of the First Age, who had come there as refugees from Beleriand during Morgoth's ascendancy. At first the population of the haven was quite small since the refugees had come in just three small ships, but over time their numbers had been increased by Nandor who came down the Anduin.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_ANFALAS_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Anfalas, or Langstrand, was a coastal region of Gondor between the rivers Lefnui and Morthond, south of Pinnath Gelin. During the War of the Ring, the people of the Anfalas were led by Lord Golasgil, who brought with him some soldiers, but mostly hunters or fishermen, at the Battle of the Pelennor Fields. The Gondor province was harassed at the coasts by the Corsairs of Umbar while Golasgil was away. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_MORNAN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Blackroot Vale, known as Mornan in Sindarin, was a valley of rich grassland through which the River Blackroot flowed. The inhabitants of the Blackroot Vale were known in Gondor for their archery skills, and their lord Duinhir took 500 bowmen to the Battle of the Pelennor Fields.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_PINNATH_GELIN_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Pinnath Gelin or Green Hills was a green and fertile hilled country in western Gondor between the western White Mountains and Anfalas. At the time of the War of the Ring, Hirluin the Fair was either a lord of that region of Gondor or apparently a figure of authority there. As Pinnath Gelin was a loyal province of Gondor, Hirluin came with some 300 well-armed men marched to the aid of Minas Tirith during the Battle of the Pelennor Fields. Hirluin was killed by Orcs during the ensuing battle.</Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_LAMEDON_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>Lamedon was a region and fiefdom in southern Gondor; a series of valleys through which the Ringló and Ciril rivers flowed south. It was one of the most densely populated regions in Gondor. At the time of the War of the Ring its lord was Angbor. </Text>
+		</Row>
+		<Row Tag="LOC_PEDIA_CITYSTATES_PAGE_CIVILIZATION_EOTHEOD_CHAPTER_HISTORY_PARA_1"  Language="en_US">
+			<Text>The Éothéod were a race of Northmen who flourished near the Vales of Anduin and later in northern Mirkwood from around T.A. 1856 to 2510. They were faithful allies to Gondor, and eventually were the ancestors of the Rohirrim. </Text>
+		</Row>
+	</LocalizedText>
+</GameData>

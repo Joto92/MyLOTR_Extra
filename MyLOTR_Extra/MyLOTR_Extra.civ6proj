@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>JT: Lord of the Rings Extra Mod</Name>
+    <Guid>c66884ad-bbb6-4f5b-a0f2-1da064df51a8</Guid>
+    <ProjectGuid>232aa8c6-cf2d-4854-a0a9-4550db10d509</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>This Mod adds aditional leaders from Lord of the Rings</Teaser>
+    <Description>This Mod adds aditional leaders from Lord of the Rings from the Second and Third Age.</Description>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <InGameActionData><![CDATA[
+        <InGameActions>
+          <UpdateDatabase id="Gameplay">
+              <File>MyLOTR_Extra_Civs.xml</File>
+              <File>MyLOTR_Extra_Leaders.xml</File>
+              <File>MyLOTR_Extra_Colors.xml</File>
+              <File>MyLOTR_Extra_Agendas.xml</File>
+              <File>MyLOTR_Extra_Religions.xml</File>
+              <File>MyLOTR_Extra_CityStates.xml</File>
+          </UpdateDatabase>
+          <UpdateText id="Text">
+            <File>MyLOTR_Extra_ConfigText.xml</File>
+            <File>MyLOTR_Extra_Text.xml</File>
+            <File>Translations/MyLOTR_Extra_ConfigES.xml</File>
+            <File>Translations/MyLOTR_Extra_TextES.xml</File>
+            <File>MyLOTR_Extra_Civilipedia.xml</File>
+            <File>Translations/MyLOTR_Extra_CivilopediaES.xml</File>
+            <File>MyLOTR_Extra_DiploText.xml</File>
+            <File>Translations/MyLOTR_Extra_DiploTextES.xml</File>
+          </UpdateText>
+          <UpdateIcons id="Icons">
+            <File>MyLOTR_Extra_Icons.xml</File>
+          </UpdateIcons>
+          <UpdateArt id="Art">
+            <File>(Mod Art Dependency File)</File>
+          </UpdateArt>
+        </InGameActions>
+      ]]></InGameActionData>
+    <FrontEndActionData><![CDATA[
+        <FrontEndActions>
+          <UpdateDatabase id="Config">
+            <File>MyLOTR_Extra_Config.xml</File>
+          </UpdateDatabase>
+          <UpdateText id="ConfigText">
+            <File>MyLOTR_Extra_ConfigText.xml</File>
+            <File>Translations/MyLOTR_Extra_ConfigES.xml</File>
+          </UpdateText>
+          <UpdateIcons id="ConfigIcons">
+            <File>MyLOTR_Extra_Icons.xml</File>
+          </UpdateIcons>
+          <UpdateArt id="ConfigArt">
+            <File>(Mod Art Dependency File)</File>
+          </UpdateArt>
+        </FrontEndActions>
+      ]]></FrontEndActionData>
+    <AssemblyName>MyLOTR_Extra</AssemblyName>
+    <RootNamespace>MyLOTR_Extra</RootNamespace>
+    <AssociationData><![CDATA[<Associations>
+  <Dependency type="Mod" title="JT: Lord of the Rings Mod" id="849f25c2-b2b3-4a4a-8ef2-9f3a997a5f63" />
+</Associations>]]></AssociationData>
+    <Authors>Jordi Torné</Authors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="MyLOTR_Extra_CityStates.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyLOTR_Extra_CivilopediaES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyLOTR_Extra_ConfigES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyLOTR_Extra_DiploTextES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Translations\MyLOTR_Extra_TextES.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Folder Include="Artdefs\" />
+    <Folder Include="Translations" />
+    <Folder Include="Textures\" />
+    <Folder Include="XLPs\" />
+    <Content Include="MyLOTR_Extra_Agendas.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_Extra_Civilipedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_Extra_Config.xml" />
+    <Content Include="MyLOTR_Extra_ConfigText.xml" />
+    <Content Include="MyLOTR_Extra_Civs.xml" />
+    <Content Include="MyLOTR_Extra_DiploText.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_Extra_Icons.xml" />
+    <Content Include="MyLOTR_Extra_Leaders.xml" />
+    <Content Include="MyLOTR_Extra_Colors.xml" />
+    <Content Include="MyLOTR_Extra_Religions.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyLOTR_Extra_Text.xml" />
+    <None Include="ArtDefs\FallbackLeaders.artdef" />
+    <None Include="XLPs\LeaderFallbacks.xlp" />
+    <None Include="XLPs\UILeaders.xlp" />
+    <None Include="Mod.Art.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

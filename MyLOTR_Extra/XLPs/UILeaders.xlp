@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>4</major>
+		<minor>0</minor>
+		<build>315</build>
+		<revision>805</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="LEADER_GIL_GALAD_NEUTRAL"/>
+			<m_ObjectName text="LEADER_GIL_GALAD_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GIL_GALAD_BACKGROUND"/>
+			<m_ObjectName text="LEADER_GIL_GALAD_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LOTR_EXTRA_LOADING_BACKGROUND"/>
+			<m_ObjectName text="LOTR_EXTRA_LOADING_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CELEBRIMBOR_BACKGROUND"/>
+			<m_ObjectName text="LEADER_CELEBRIMBOR_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_OROPHER_BACKGROUND"/>
+			<m_ObjectName text="LEADER_OROPHER_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_THROR_NEUTRAL"/>
+			<m_ObjectName text="LEADER_THROR_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_THROR_BACKGROUND"/>
+			<m_ObjectName text="LEADER_THROR_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_THORIN_II_OAKENSHIELD_NEUTRAL"/>
+			<m_ObjectName text="LEADER_THORIN_II_OAKENSHIELD_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_THORIN_II_OAKENSHIELD_BACKGROUND"/>
+			<m_ObjectName text="LEADER_THORIN_II_OAKENSHIELD_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DENETHOR_II_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DENETHOR_II_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DENETHOR_II_BACKGROUND"/>
+			<m_ObjectName text="LEADER_DENETHOR_II_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_EORL_THE_YOUNG_NEUTRAL"/>
+			<m_ObjectName text="LEADER_EORL_THE_YOUNG_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_EORL_THE_YOUNG_BACKGROUND"/>
+			<m_ObjectName text="LEADER_EORL_THE_YOUNG_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ELROS_TAR_MINYATUR_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ELROS_TAR_MINYATUR_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AR_PHARAZON_BACKGROUND"/>
+			<m_ObjectName text="LEADER_AR_PHARAZON_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_AR_PHARAZON_NEUTRAL"/>
+			<m_ObjectName text="LEADER_AR_PHARAZON_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_CELEBRIMBOR_NEUTRAL"/>
+			<m_ObjectName text="LEADER_CELEBRIMBOR_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ELROS_TAR_MINYATUR_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ELROS_TAR_MINYATUR_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_OROPHER_NEUTRAL"/>
+			<m_ObjectName text="LEADER_OROPHER_NEUTRAL"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

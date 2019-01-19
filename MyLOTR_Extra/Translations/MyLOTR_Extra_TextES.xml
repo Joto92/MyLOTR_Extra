@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- ELDAR | GIL_GALAD	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_GIL_GALAD" Language="es_ES">
+			<Text>Gil-Galad fue el último Alto Rey de los Ñoldor en la Tierra Media, llevó muchos titulos, incluyendo Alto Rey de los Elfos del Oeste, Rey de los Eldar, Rey de Lindon, Señor de los Altos Elfos y Señor de Eriador. Él formó la Última Alianza de Elfos y Hombres con Elendil, liderando los Elfos en la guerra contra Sauron. Su muerte marco un final a los Reinos Ñoldor en la Tierra Media, aunque varios Ñoldor continuan viviendo en Imladris durante la Tercera Edad.</Text>
+		</Replace>
+		<!-- END OF ELDAR | GIL_GALAD -->
+		<!-- ELDAR | CELEBRIMBOR	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_CELEBRIMBOR" Language="es_ES">
+			<Text>Celebrimbor fue un principe Ñoldor y último de linaje de la Casa de Fëanor que vivió en la Tierra Media. Él goberno Eregion en la Segunda Edad y maestro de la herreria. Es recordado principalmente por la creación de los tres Anillos de Poder de los Elfos: Vilya, Narya y Nenya. </Text>
+		</Replace>
+		<!-- END OF ELDAR | CELEBRIMBOR -->
+		<!-- SILVAN | OROPHER	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_OROPHER" Language="es_ES">
+			<Text>Oropher fue el padre de Thranduil de Mirkwood y abuelo de Legolas, Rey Sindarin de los Elfos Silvanos del Bosque Verde el Grande durante la Segunda Edad. Oropher respondio a la llamada de la Última Alianza de Elfos y Hombres pero marcho como un ejercito independiente con Amdír, el Rey de Lórien. Se unió al ejercito de Gil-galad cuando marchavan rio abajo del Anduin hacia Dagorlad, donde murio.</Text>
+		</Replace>
+		<!-- END OF SILVAN | OROPHER -->
+		<!-- DWARVES| THROR	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_THROR" Language="es_ES">
+			<Text>Thrór fue Rey del Pueblo de Durin. Con Thrór liderando los Enans, Erebor prospero por más de un siglo. Eventualmente el gran Reino atrajo la atención del dragón conocido como Smaug, quién volo al sur para destruir el reino, matando centenares de Enanos y haciendo huir a Thrór y su gente.</Text>
+		</Replace>
+		<!-- END OF DWARVES| THROR -->
+		<!-- DWARVES| THORIN_II_OAKENSHIELD	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_THORIN_II_OAKENSHIELD" Language="es_ES">
+			<Text>Thorin II fue el hijo de Thráin II, nieto del Rey Thrór. Thorin fue conocido por liderar la companyia que se infiltro en el Reino perdido debajo la Montaña, para recuperarlo de las fauces de Smaug. Tambien por liderar a los Hombres, Enanos y Elfos en la Batalla de los Cinco Ejercitos. </Text>
+		</Replace>
+		<!-- END OF DWARVES| THORIN_II_OAKENSHIELD -->
+		<!-- GONDOR| DENETHOR_II	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_DENETHOR_II" Language="es_ES">
+			<Text>Denethor II fue el 36 Senescal de Gondor, padre de los heroes de la Guerra del Anillo Boromir y Faramir. Denethor II goberno como Senescal durante 35 años, del TA 2984 hasta su muerte en TA 3019. El titulo de Senescal paso a su hijo Faramir.</Text>
+		</Replace>
+		<!-- END OF GONDOR| DENETHOR_II -->
+		<!-- ROHAN| EORL_THE_YOUNG	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_EORL_THE_YOUNG" Language="es_ES">
+			<Text>Eorl el Joven fue el Señor de los Éothéod y primer Rey de Rohan. Él fundo la Casa de Eorl, que goberno Rohan. Gondor estava siendo amenazada por los hombres de Rhûn llamados Balchoth y Cirion solicito ayuda a Eorl para derrotarlos. Eorl accedio, porque sabia que si Gondor caia, toda la Tierra Media seria conquistada.</Text>
+		</Replace>
+		<!-- END OF ROHAN| EORL_THE_YOUNG -->
+		<!-- NUMENOR | ELROS_TAR_MINYATUR	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_ELROS_TAR_MINYATUR" Language="es_ES">
+			<Text>Elros Tar-Minyatur, el Medio-Elfo, fue hijo de Eärendil y Elwing, hermano de Elrond. Primer Rey de Númenor, ancestro de la linea de reyes especialmente de su descendiente Aragorn II Elessar. Él tenia una fuerte amistad con los Elfos, ya que era medio Elfo. </Text>
+		</Replace>
+		<!-- END OF NUMENOR | ELROS_TAR_MINYATUR -->
+		<!-- NUMENOR| AR_PHARAZON	-->
+		<Replace Tag="LOC_LOADING_INFO_LEADER_AR_PHARAZON" Language="es_ES">
+			<Text>Ar-Pharazôn el Dorado, fue el 35 y último Rey de Númenor. De todos los Reyes Númenor, él tuvo el mayor poder pero lo uso más imprudentemente. Su deseo para la vida eterna causo la destrucción de Númenor y el Canvió del Mundo.</Text>
+		</Replace>
+		<!-- END OF NUMENOR| AR_PHARAZON -->
+		<!-- RHOVANION-->
+		<Replace Tag="LOC_MINOR_CIV_RHOVANION_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Las Zonas Industriales ganan +1 [ICON_Production] de producción si esta al lado del rio.</Text>
+		</Replace>
+		<Replace Tag="LOC_RHOVANION_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Rhovanion</Text>
+		</Replace>
+		<!-- ANDUSTAR-->
+		<Replace Tag="LOC_MINOR_CIV_ANDUSTAR_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus Rutas comerciales [ICON_TradeRoute] con otras civilizaciones proporcionan +4 de Fe [ICON_Faith] para ti. Las Rutas comerciales [ICON_TradeRoute] de otras civilizaciones contigo proporcionan +2 de Fe [ICON_Faith] para ti.</Text>
+		</Replace>
+		<!-- ARTHEDAIN-->
+		<Replace Tag="LOC_MINOR_CIV_ARTHEDAIN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus distritos de Teatro proporcionan +1 a la capacidad de las Rutas comerciales [ICON_TradeRoute] cada uno.</Text>
+		</Replace>
+		<Replace Tag="LOC_ARTHEDAIN_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Arthedain</Text>
+		</Replace>
+		<!-- CARDOLAN-->
+		<Replace Tag="LOC_MINOR_CIV_CARDOLAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Centros Comerciales dan 1 de Gold [ICON_Gold] si estan al lado de un Rio.</Text>
+		</Replace>
+		<Replace Tag="LOC_CARDOLAN_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Cardolan</Text>
+		</Replace>
+		<!-- EDHELLOND-->
+		<Replace Tag="LOC_MINOR_CIV_EDHELLOND_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los distritos ganan +2 [ICON_Science] Ciencia por estar adyacentes a la Costa.</Text>
+		</Replace>
+		<Replace Tag="LOC_EDHELLOND_DESCRIPTION" Language="es_ES">
+			<Text>Reino de Edhellond</Text>
+		</Replace>
+		<!-- ANFALAS-->
+		<Replace Tag="LOC_MINOR_CIV_ANFALAS_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Todos los barcos pesqueros obtienen +1 [ICON_Culture] Cultura.</Text>
+		</Replace>
+		<!-- MORNAN-->
+		<Replace Tag="LOC_MINOR_CIV_MORNAN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Las unidades a distancia reciben +4 [ICON_Strength] Fuerza de Combate.</Text>
+		</Replace>
+		<!-- PINNATH_GELIN-->
+		<Replace Tag="LOC_MINOR_CIV_PINNATH_GELIN_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+1 [ICON_Gold] Oro en los Distritos Comerciales por adyacencia a Colinas.</Text>
+		</Replace>
+		<!-- LAMEDON-->
+		<Replace Tag="LOC_MINOR_CIV_LAMEDON_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>Tus distritos Industriales proporcionan +1 a la capacidad de las Rutas comerciales [ICON_TradeRoute] cada uno.</Text>
+		</Replace>
+		<!-- EOTHEOD-->
+		<Replace Tag="LOC_MINOR_CIV_EOTHEOD_TRAIT_DESCRIPTION" Language="es_ES">
+			<Text>+20% de Producción al recultar unidades de Caballeria Pesada de las eras Antigua, Medieval, Moderna y de la Información.</Text>
+		</Replace>
+	</LocalizedText>
+</GameData>
